@@ -1,5 +1,5 @@
 X:1
-T: Galliard:A Lieta Vita
+T:Galliard:A Lieta Vita
 C:Giovanni Giacomo Gastoldi (c. 1554 - 1609)
 M:6/4
 L:1/8
@@ -20,7 +20,7 @@ K:G dorian
 
 X:3
 I:linebreak $
-T: Galliard:Can She Excuse
+T:Galliard:Can She Excuse
 C:John Dowland, setting from Morley's Consort Lessons, 1599 & 1611
 M:3/2
 L:1/4
@@ -56,13 +56,13 @@ c2c c2A | c2c c2d | e2d cBA | G3 G2A | B2B B2A | B2B B2A | \
 c2c/B/ A2G | A3 A3
 :| 
 
-X: 6
-T: Courante CLXXXIII à 4: Entree Courante
-C: Praetorius
-M: 6/4
-L: 1/8 
-K: C major
-P: A
+X:6
+T:Courante CLXXXIII à 4: Entree Courante
+C:Praetorius
+M:6/4
+L:1/8 
+K:C major
+P:A
 G2 | "C"c4G2 c4d2 | "C"e3fg2 e2c2g2 | "F"f4e2 "G"d4c2 | "G"B3cd2 B2G2g2 | "F"f4e2 "G"d4c2 | "G"B3cd2 B2G2g2 | 
 "Dm"d4e2 f4e2 | "G"d4c2 B4G2 | "F"A2B2c2 "G"B2c2d2 | "C"c6 c4 :: \
 P:B
@@ -73,7 +73,7 @@ c2 | "G"B2G2d2 B2G2d2 | "G"B2G2d2 B2G2d2 |
 
 X:7
 I:linebreak $
-T: Courante CXLII à 4:So ben mi ch'ha bon tempo
+T:Courante CXLII à 4:So ben mi ch'ha bon tempo
 C:Praetorius
 M:6/4
 L:1/8
@@ -85,7 +85,7 @@ P:B
 "Gm"d2 | "Gm"g4g2 "D"^f4f2 | "Gm"g4g2 "F Am"c4c2 | "F"f4f2 "C"e4e2 | "F"f4f2 "Gm"B4B2 |
 "Eb"B4"Gm"B2 "F"c4c2 | "Bb"d4d2 d3c"Gm"B2 | "Am F"A4"Gm"G2 "Cm"G2"D"^F4 | "G"G4G2 G4 :| 
 X:8
-T: Pavane:La Dona
+T:Pavane:La Dona
 C:Susato
 M:C|
 L:1/4
@@ -98,7 +98,7 @@ K:C major
 "Am"a"G"g/f/ "C"e/f/"Gm"g/f/ |  "C"e/d/"D Asus4"d2^c |  [1 "D"d2 z :|]  [2 "D"d4 :| 
 
 X:9
-T: Galliard:La Dona
+T:Galliard:La Dona
 C:Susato
 K:C major
 M:6/4
@@ -110,7 +110,7 @@ L:1/8
  "Dm"f2d2f2 "C"e2c2e2 | "Dm"d2"G"B2"Dm"d2 "Am"c2AB"F"cA | "Gm"d4"A"^c2 "D"d4z2 :| 
 
 X:11
-T: Pavane:Earl of Salisbury
+T:Pavane:Earl of Salisbury
 C:Byrd
 P:AABB x 2
 N:
@@ -125,7 +125,7 @@ P:B
 "C"e3d "Am"c2e2- | "E"e2d3e"Am"c2 | "E"B3A ^GABc | "Esus4"BAA4^G2 |  [1 "A"A4 z4 :|]  [2 "A"A8 |] 
 
 X:12
-T: Galliard:Earl of Salisbury
+T:Galliard:Earl of Salisbury
 C:Byrd
 K:A minor
 M:3/2
@@ -148,7 +148,7 @@ L:1/8
 
 X:14
 I:linebreak $
-T: Pavane:Mille Ducas
+T:Pavane:Mille Ducas
 C:Susato
 N:
 K:D dorian
@@ -159,7 +159,7 @@ L:1/4
 "Am"CC "Bb"D"G"B, | "Am"C"F"A, "G"B,"Am"C | "Bb Dm"D2 "F"F2 | "C"E"Dm Asus4"D2^C | "D"D4 :| 
 
 X:15
-T: Galliard:Mille Ducas
+T:Galliard:Mille Ducas
 C:Susato
 N:
 K:D dorian
@@ -180,7 +180,7 @@ L:1/8
 "G"d3c B2"C"cB | "D"A3G FE"G"D2 | "C"E=F"D D5"G4F2 | "G"G4 G4 :| 
 
 X:17
-T: Galliard:The New-Yeere's Gift
+T:Galliard:The New-Yeere's Gift
 C:Anthony Holborne, 1599
 K:C major
 M:6/4
@@ -319,7 +319,7 @@ fg | ag ae | ag ae | ab a2 |]
 X:1
 T:Saltarello la Regina
 C:Anon 14th C, British Library MS Add. 29987
-N: Drone:G/D
+N:Drone:G/D
 K:G major
 M:6/8
 L:1/8
@@ -372,7 +372,7 @@ P:D
 
 X:1
 T:Saltarello la Regina
-N: Drone:G/D
+N:Drone:G/D
 K:G major
 M:6/8
 L:1/8
