@@ -39,7 +39,7 @@ GGG F/G/A/B/c | B3/2 A/A/G/4A/4 B3 | \
 BBB A/B/c/B/A/G/ | G2 F G2 z :|
 
 X:4
-T:Galliard "La traditore my fa morire"
+T:Galliard: La traditore my fa morire
 R:Gaillarde
 C:Thoinot Arbeau, Orchesographie, 1589
 M:6/4
@@ -49,7 +49,7 @@ d d c B2 A | A G G F2 D | d d c B2 A | G G F G2 z :: \
 A A A c2 c | c c c d2 d | d d c B2 A | G G F G2 z :|
 
 X:5
-T:Galliard "Anthoinette"
+T:Galliard: Anthoinette
 C:Thoinot Arbeau, Orchesographie, 1589
 M:6/4
 L:1/4
@@ -57,7 +57,7 @@ K:C
 AdG A2 A |  ddc "^(♭)"B2A :: ccc A>AG |GFE E2z :: DCD E>FG | AFG E2D :|
 
 X:6
-T:Galliard "Baisons nous belle"
+T:Galliard: Baisons nous belle
 C:Thoinot Arbeau, Orchesographie, 1589
 M:6/4
 L:1/4
@@ -65,7 +65,7 @@ K:F
 F F F D z D | G G G A z A | F G A B z G | F F E F z F |]
 
 X:7
-T:Galliard "Si j'ayme ou non."
+T:Galliard: Si j'ayme ou non
 C:Thoinot Arbeau, Orchesographie, 1589
 M:6/4
 L:1/4
@@ -74,7 +74,7 @@ A A A z A A | F G A z B B | A G A F z G | F F E F z F |
 A G A F z F | D E F G z G | A G A F z G | F F E F z F |]
 
 X:8
-T:Galliard "J'aymerois mieulx dormir seulette"
+T:Galliard: J'aymerois mieulx dormir seulette
 C:Thoinot Arbeau, Orchesographie, 1589
 M:6/4
 L:1/4
@@ -83,7 +83,7 @@ FFFFFF | GGG AzA | BBB AAA | AGG ^Fz^F |
 FGA BBA | AGG ^FzF | FGA BBA | GG^F GzG |]
 
 X:9
-T:Galliard "L'ennuy qui me tourmente."
+T:Galliard: L'ennuy qui me tourmente
 C:Thoinot Arbeau, Orchesographie, 1589
 M:6/4
 L:1/4

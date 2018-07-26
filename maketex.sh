@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#SECTIONS="basse_dance 15italian gresley inns 16italian arbeau improvised playford playford_later other"
-SECTIONS="basse_dance 15italian gresley inns 16italian arbeau playford playford_later other"
+SECTIONS="basse_dance 15italian gresley inns 16italian arbeau improvised playford playford_later other"
+#SECTIONS="basse_dance 15italian gresley inns 16italian arbeau playford playford_later other"
 
 for section in $SECTIONS; do
   echo "converting $section"
