@@ -1,0 +1,522 @@
+I:abc-charset utf-8
+X:1
+I:linebreak $
+T:Belle qui tiens ma vie
+C:Thoinot Arbeau, Orchesographie, 1589
+N:Transcribed & edited by Aaron Elkiss; matches Pile 2018
+M:C|
+L:1/4
+K:G dorian
+"Gm"G2 G"D"^F | "Gm"G"F"A "Bb"B2 | "Bb"Bd "C"c"Bb"B | "Eb"B"F"A "Bb"B2 | "Gm"G2 G"D"^F | "Gm"G"F"A "Bb"B2 | 
+"Bb"Bd "C"c"Bb"B | "Eb"B"F"A "Bb"B2 | "Bb"B2 "F"A"Dm"A | "Gm"G"Cm"G "D"^F2 | "Bb"D2 "C"E/F/"Gm"G | "Dsus4"G^F "G"G2 | 
+"Bb"B2 "F"A"Dm"A | "Gm"G"Cm"G "D"^F2 | "Bb"D2 "C"E/F/"Gm"G | "Dsus4"G^F "G"G2 |] 
+
+X:2
+T:Jouyssance vous donneray
+C:Thoinot Arbeau, Orchesographie, 1589
+P:AA BB CC; retour: BB C A
+N:arr. Steve Hendricks; matches Pile 46
+M:6/4
+L:1/8
+K:D minor
+P:A
+"Dm"D2D2D2 F2"Am"EDC2 | "Dm"F2"C"GEFG "F"A4A2 | "F"AGFGAB c2cBA2 | "Bb"BAGF"C"GE "F"F4F2 |
+"F"A2G2A2 "Bb"D4D2 | "C"EFGFED C4C2 | "F"cBAGFE F2"Gm"BAGF | "A"ED^CDDC "D"D4D2 :: 
+P:B
+"Dm"d2d2d2 "Am"c=Bcde2 | "Dm"dc"E"=BA=B^G "A"A4A2 | "Am"AGA=Bcd e2"D"dc=BA | "E"=BA^GA=BG "A"A4A2 ::
+P:C
+"Dm"DCDEDE F2"Am"EDC2 | "Dm"FEDEFG "F"A4A2 | "F"AGFGAB cBcdcA | "Bb"BA"C"GFGE "F"F4F2 | 
+"F"A2G2A2 "Bb"D4D2 | "C"EFGFED C4C2 | "F"cBAGFE F2"Gm"BAGF | "A"ED^CDDC "D"D4D2 :| 
+
+X:3
+T:Tourdion
+C:Thoinot Arbeau, Orchesographie, 1589
+M:6/4
+L:1/4
+K:F
+BAG c3/2 B/A | GFE F3/2 E/D | BAG c3/2 B/A/G/ | G2F G2z :: 
+GGG F/G/A/B/c | B3/2 A/A/G/4A/4 B3 | \
+BBB A/B/c/B/A/G/ | G2 F G2 z :|
+
+X:4
+T:Galliard "La traditore my fa morire"
+R:Gaillarde
+C:Thoinot Arbeau, Orchesographie, 1589
+M:6/4
+L:1/4
+K:F
+d d c B2 A | A G G F2 D | d d c B2 A | G G F G2 z :: \
+A A A c2 c | c c c d2 d | d d c B2 A | G G F G2 z :|
+
+X:5
+T:Galliard "Anthoinette"
+C:Thoinot Arbeau, Orchesographie, 1589
+M:6/4
+L:1/4
+K:C
+AdG A2 A |  ddc "^(♭)"B2A :: ccc A>AG |GFE E2z :: DCD E>FG | AFG E2D :|
+
+X:6
+T:Galliard "Baisons nous belle"
+C:Thoinot Arbeau, Orchesographie, 1589
+M:6/4
+L:1/4
+K:F
+F F F D z D | G G G A z A | F G A B z G | F F E F z F |]
+
+X:7
+T:Galliard "Si j'ayme ou non."
+C:Thoinot Arbeau, Orchesographie, 1589
+M:6/4
+L:1/4
+K:F
+A A A z A A | F G A z B B | A G A F z G | F F E F z F |
+A G A F z F | D E F G z G | A G A F z G | F F E F z F |]
+
+X:8
+T:Galliard "J'aymerois mieulx dormir seulette"
+C:Thoinot Arbeau, Orchesographie, 1589
+M:6/4
+L:1/4
+K:F
+FFFFFF | GGG AzA | BBB AAA | AGG ^Fz^F |
+FGA BBA | AGG ^FzF | FGA BBA | GG^F GzG |]
+
+X:9
+T:Galliard "L'ennuy qui me tourmente."
+C:Thoinot Arbeau, Orchesographie, 1589
+M:6/4
+L:1/4
+K:C
+DDD FFF | FGG AzF |\
+AAA AAG | FFE FzF |
+K:C
+FFA AAF | AAA GzE | GGG FFD | AGF EzE |
+FFG AAF/F/ | A/A/AA GzE | GAG FFE/E/ | D/D/DC DzD |]
+
+X:10
+T:Volte
+C:Thoinot Arbeau, Orchesographie, 1589
+L:1/4
+M:6/4
+K:DDor
+DDD A2A | GGF E2D | GGF E2D | DDC D2D |]
+
+X:11
+T:Coranto
+C:Thoinot Arbeau, Orchesographie, 1589
+K:DDor
+L:1/4
+M:C
+ABcd | edce | dcBA | GFGG |]
+
+X:12
+T:Alman
+M:C
+R:Alman
+C:Thoinot Arbeau, Orchesographie, 1589
+L:1/4
+K:F
+FF/F/ GG/G/ | A/F/G/A/ BB |\
+Bd c>B | A/F/G/A/ FF | \
+B/A/G/F/ B/A/G/F/ | 
+Bd c>B | \
+A/F/G/A/ FF ||\
+FF GG | AA BB |\
+Bd cB | AG FF |]
+
+X:13
+I:linebreak $
+C:Thoinot Arbeau, Orchesographie, 1589
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+T:Bransle Double
+M:C|
+L:1/4
+K:G dorian
+ "^Drone: G/D"GG BB | AG FF |  [1 Bc dB | cc BB :|]  [2 BB AG | G^F GG :| 
+
+X:14
+I:linebreak $
+T:Bransle Simple
+T:Single Bransle
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C|
+L:1/4
+K:G dorian
+"^Drone: G/D"GG BB | AG FB | BA BB | GG BB | AG FG | G^F GG :| 
+
+X:15
+I:linebreak $
+T:Bransle Gay
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:6/4
+L:1/8
+K:G dorian
+  "^Drone: G/D"G2G2d2 B4B2 | c4c2 d4d2 | c4B2 A4G2 | G4^F2 G6 :| 
+
+X:16
+I:linebreak $
+T:Bransle de Burgoigne
+T:Burgundian Bransle
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C|
+L:1/4
+K:F major
+ "^Drone: G/D"BB GG | AA FD | dd BB | cA Gz :| 
+
+X:17
+T:Bransle Hault Barrois
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C
+L:1/4
+K:F
+"^Drone: F/C"cdef | efcc | BBAA | BAGF :|
+
+X:18
+I:linebreak $
+T:Bransle Cassandre
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C|
+L:1/4
+K:D dorian
+"^Drone: A/D"c2 cc | c2 c2 | d/e/f cd | A2 A2 :: f2 dd | e2 cc | 
+dd cd | A3/B/ cc | F2 F2 | G/A/_B GA | D2 D2 :| 
+
+X:19
+I:linebreak $
+T:Bransle Pinagay
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C|
+L:1/4
+K:G major
+"^Drone: G/D"GG GG | AA Bd/c/ | Bz GG | GG AA | Bd/c/ Bd/c/ | Bd/c/ Bz | 
+BA GA | FG AG | BB AG | GF G2 |] 
+
+X:20
+I:linebreak $
+T:Bransle Charlotte
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C|
+L:1/4
+K:G dorian
+"^Drone: G/D"GG BB | cc d2 | gz dz | cA Bc | d2 G2 :| Gd dd | 
+cd B2 | dz cz | 
+M:3/2
+GABcAG | 
+M:C|
+dz cz | 
+M:3/2
+GABcAG | 
+M:C|
+dz ez | dc BB | AA G2 |] 
+
+X:21
+I:linebreak $
+T:Bransle de la Guerre
+T:War Bransle
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C|
+L:1/4
+K:G major
+"^Drone: G/D"d/c/d/e/ dd | B2 Gd | cB AG | F2 D2 | A2 Bc | d2 dd | 
+ed d^c | d2 d2 :| dd dB | dd dB | c/A/B c/A/B | AG BA | 
+B/G/A B/G/A | GG FG | B/G/A GG | FG G2 |] 
+
+X:22
+I:linebreak $
+T:Bransle Aridan
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C|
+L:1/4
+K:G major
+"^Drone: G/D"Bc dd | ee dc | 
+M:3/2
+BzAzGz :: 
+M:C|
+A2 B2 | Gd cB | A2 GG | AF GA | B2 G2 | Bc dd | 
+ee d2 | ez dz | cc BB | AA G2 | AB G3/d/ | c/B/A/A/ G2 :| 
+
+X:23
+I:linebreak $
+T:Bransle de Poictou
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:3/4
+L:1/8
+K:G mix
+"^Drone: G/D"B2c2d2 | d4d2 | c4A2  |B2A2G2 | G2A2^F2 | G4z2 :| 
+
+X:24
+T:Bransles d'Ecosse
+T:Scottish Bransles
+C:Thoinot Arbeau, Orchesographie, 1589
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+M:C|
+L:1/4
+K:G dorian
+"^Drone: G/D"GA BG | AB c2 | cB AG | Bc d2 |  [1 df ed | cB AG :|] \
+ [2 cB AG | AF G2 :: 
+d2 de | fg fe | d2 d2 |  [1 cB A2 | d2 cB | A2 G2 :|] \
+ [2 cB AG | AF G2 :| 
+
+X:25
+I:linebreak $
+T:Trihory de Bretagne 
+T:Triory of Brittany
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:2/4
+L:1/4
+K:G dorian
+ "^Drone: G/D"Bc | d2 | d2 | c c | B B | c A | B2 :|
+
+X:26
+I:linebreak $
+T:Bransle de Malte
+T:Maltese Bransle
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C|
+L:1/4
+K:C major
+ "^Drone: C/G"c/B/c/d/ ee | dc BA/G/ | AA G2 :| c/B/c/d/ ef | de f2 | d/e/f e2 | 
+d/e/f ed/c/ | B/A/c/B/ c2 |] 
+
+X:27
+T:Bransle des Lavandieres
+T:Washerwomen's Bransle
+C:Thoinot Arbeau, Orchesographie, 1589
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+M:C
+L:1/4
+K:G dorian
+"^Drone: G/D"GG GG | FF B2 | cB AG | GF G2 ::\
+Gd Bd | cB AG ::
+GG F2 | G2 A2 | AA AB | cB AG |\
+GG F2 | G2 A2 | cB AG | GF G2 :|
+
+X:28
+I:linebreak $
+T:Bransle des Lavandieres
+T:Washerwomen's Bransle
+C:Jean d'Estrées, Premier livre de danseries, 1559
+N:Edited by Aaron Elkiss; matches Pile 2018
+M:C
+L:1/8
+K:G dorian
+ "Gm"G2G2 G2G2 | "D"^F2F2 "Bb"B4 | "F"cd"Cm"_ed "F"cB"Gm"AG | "Dsus4"^FG2F "G"G4 :: "Gm"G2d2 B2"Dm"d2 | "F"c2"Gm"B2 "D"A2"G"G2 :| 
+"Gm"G2G2 "D"^F4 | "Gm"G4 "F"A4 | "F"A4 A2"C"GA | "Gm"BcB2 "D"A2"Gm"G2 | "Gm"G2G2 "D"^F4 | "Gm"G4 "F"A4 | 
+"F"ABcB A2"Gm"G2- | "Dsus4"G2^F2 "G"G4 |] 
+
+X:29
+I:linebreak $
+T:Bransle des Pois
+T:Pease Bransle
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C|
+L:1/4
+K:G dorian
+"^Drone: G/D"B2 Bc | d2 dd | _ed cc | d2 G2 :| GA F2 | GA BG | 
+GA Bc | BA G2 | GA F2 | GA BG | GA Bc | BA G2 |] 
+
+X:30
+T:Bransle sont des Pois
+T:Pease Bransle
+N:arr. Steven Hendricks. Matches Pile 46
+C:Adrian Le Roy, Breve et facile instruction, 1565
+M:C
+L:1/8
+K:G major
+"G"G2A2 B2c2 | d4 d2"C"e2 | "D"d2c2 B2A2 | "G"B4 B2G2 | \
+G3A BABc | d4 d2"C"e2 | "D"d2c2 B2A2 | "G"B8 |
+"G"G2"D"A2 F4 | "Am"ABc2 "G"B2G2 | "G"G2"D"A2 F2"Am"c2 | "G"B2"D"d2 "G"B4 | \
+"G"G2"D"A2 F4 | "Am"ABc2 "G"B2G2 | "G"G2"D"A2 F2"Am"c2 | "G"B2"D"d2 "G"B2G2 |]
+
+X:31
+I:linebreak $
+T:Bransle des Hermites
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C|
+L:1/4
+K:G dorian
+"^Drone: G/D"BB BB | BB AB | cB AG | G"^(♯)"F G2 :| GG GG | GG F2 | 
+GG A2 | F2 D2 | GG GG | GG F2 | GG A2 | F2 D2 |] 
+
+X:32
+I:linebreak $
+T:Bransle des Sabots
+T:Clog Bransle
+C:Thoinot Arbeau, Orchesographie, 1589
+N:Ed. Aaron Elkiss. Matches Pile 2018.
+M:C|
+L:1/4
+K:C major
+"^Drone: C/G"c2 c2 | d/c/B/A/ BG | AA Gc | cB c2 :: d/c/B/A/ BG | d/c/B/A/ BG | 
+M:3/2
+GzGzGz :| 
+
+X:33
+T:Bransle des Chevaulx
+C:Thoinot Arbeau, Orchesographie, 1589
+N:arr. Kathy Van Stone; matches Pile 2018
+T:Horse's Bransle
+M:C
+L:1/8
+K:Gmaj
+"G"G3A B2B2 | "C"c2B2 A2c2 | "G"B2A2 G2F2 | "C"E4 "D"D4 | \
+"G"G3A B2B2 | "C"c2B2 A2c2 | "G"B2G2 "D"A2A2 | "G"G8 ||
+"G"d2cB "F"A2AB | "C"c2BA "G"G2B2 | "F"A2G2 "D"F2G2 | "D"A4 A4 | \
+"G"d2cB "F"A2AB | "C"c2BA "G"G2B2 | "F"A2"C"G2 "D"G2F2 | "G"G4 G4 ||
+K:Gdor
+"Gm"B2AG B2AG | "Bb"F2G2 "Dm"A4 | "Dm"D2E2 "Bb"F2G2 | "Dm"A2B2 "F"A2G2 | \
+"Gm"B2AG B2AG | "Bb"F2G2 "Dm"A4 | "Dm"D2E2 F2G2 | "Dsus4"G2"D"^F2 "G"G4 |]
+
+X:34
+T:Bransle de la Montarde
+P:AA Bx(number of dancers per set)
+C:Thoinot Arbeau, Orchesographie, 1589
+N:Ed. Al Cofrin; Matches Pile 48
+M:C|
+L:1/4
+K:D dorian
+P:A
+"D5"AB cA | dB cA | AA AA | GF ED | AB cA | 
+dB cA | GA/G/ FE | "G5"DE/C/ D2 ::\
+P:B
+"^Repeat once per dancer in each set""G5"de/d/ cB | cA G2 :|
+
+X:35
+T:Bransle de la Montarde
+C:Pierre Phalese, 1571
+C:Arr. Emma Badowski
+M:C|
+L:1/4
+K:F major
+P:A
+"Gm"d"C"e "F"f"Gm"d | "C"ge "Dm"f"Gm"d | "Gm"d/c/d B/c/"Bb"d | "F"c"Gm"B "D"AA | "Gm"d"C"e "F"f"Gm"d | 
+"C"ge "Dm"f"Gm"d | \
+"Gm"d/c/d B/c/"Bb"d | "F"c/B/A "Gm"BG |: \
+P:B - repeat for each dancer in set
+"Bb"dd "Eb"B/c/"Bb"d | "F"c/B/A "Gm"BG :| 
+
+X:36
+I:linebreak $
+T:Bransle de la Haye
+C:Thoinot Arbeau, Orchesographie, 1589
+N:Arr. Steve Hendricks. Matches Pile 46
+M:C|
+L:1/4
+K:F major
+"Gm"G | "C"cc c"Gm"d | "Gm"GG G"D"A | "Gm"BB GB | "Dm"A2 zA | "C"cc c"Gm"d | "Gm"GG GB | 
+"D"AG A^F | "Gm"G2 zG | "C"c=B cd | "C"e2 ef | "C"ed/c/ "G"dd | "C"c2 zc | 
+"F"ff f"C"e | "Gm"d2 dd | "C"cc "Gm"BB | "D"A2 Ad | "Cm"cB c"D"A | "Gm"G2 "D"Ad | 
+"Cm"cB c"D"A | "Gm"G3 |] 
+
+X:37
+I:linebreak $
+T:Bransle Official
+C:Thoinot Arbeau, Orchesographie, 1589
+N:Arr. Russell Almond. Matches Pile 2018
+M:C
+L:1/8
+K:C major
+ |: "C"c2c2 "G"dcBA | "C"G6G2 | "F"ABc2 "Gsus4"c2B2 | "C"c4 c4 :: "C"g3f efge | "Bb"f3e defd | 
+"Am"e3d cdec | "G"d3c BcdB | "F"c3B ABcA | "G"B3A G2G2 | "C"AB"Gsus4"c4B2 | "C"c4 c4 :| 
+
+X:38
+T:Gavotte
+M:C|
+L:1/4
+C:Thoinot Arbeau, Orchesographie, 1589
+K:F
+A>G F/G/A/B/ | c2 c2 | d/e/ f ed | c2 c2 ::BA GA | F>G AF | BA Gc | F2 F2 :| 
+
+X:39
+T:Morisques
+M:C|
+L:1/4
+C:Thoinot Arbeau, Orchesographie, 1589
+K:CMix
+cc cd | c4 | AF FG | E2 C2 :: \
+AF FG | AF FG | AF FG | E2 C2 ::
+L:1/8
+cBcd cBcd | c2AB c4 | \
+AGAG FAGF | E2DE C4 ::
+AFFF AGAG | FEFG AGAG | \
+FEFG E2DE | C4 :| 
+
+X:40
+T:Canaries
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C|
+L:1/4
+K:GMix
+G2 AB | G2 AB | c2 dB | A2 BG ::\
+G2 dc | B2 cd | c2 cB | A2 AG :|
+
+X:41
+I:linebreak $
+T:Canaries
+C:Michael Praetorius, Terpsichore, 1612
+N:Ed. Aaron Elkiss, matches Pile 48
+M:6/4
+L:1/8
+K:G major
+"G"G3AB2 G3AB2 | "C"c4"G"B2 "D"A4"G"G2 :: "G"d6 B3cd2 | "C"c4"G"B2 "D"A4"G"G2 :: "G"B3AB2 "C"G3A"G"B2 | "Am"c3d"G"B2 "D"A4"G"G2 | 
+"G"G3AB2 "Em"G3A"G"B2 | "C"c3d"G"B2 "D"A4"G"G2 | "D"d3cd2 "G"B3cd2 | "Am"c4"G"B2 "D"A4"G"G2 | "D"d3ed2 "Em"B3c"Bm"d2 | "C"c3d"G"B2 "D"A4"G"G2 :: 
+"C"G3A"G"B2 "C"G3A"G"B2 | "C"G3A"G"B2 "D"A6 | "D"d6 "G"B6 | "C"G2A2"G"B2 "D"A6 :| 
+
+X:42
+T:Spanish Pavan
+M:C
+L:1/8
+C:Thoinot Arbeau, Orchesographie, 1589
+K:DDor
+d4  c3 A | B2 c2  d3 e | \
+dBcd  e4 | e2 e2  e3 g |
+f2 e2  d3 c | dfed  c2 d2 |\
+B2 c2  d3 c | Bcde  d2 |]
+
+X:43
+T:Pavane de Spaigne (XXX)
+T:For Pavaniglia (Caroso) and Spanish Pavane (Arbeau)
+N:Ed. Aaron Elkiss. Matches Pennsic Pile 46.
+M:C
+L:1/8
+K:C major
+"Dm"def2 e2d2 | "A"^c3B A2B2 | ^c2d2 e2c2 | "Dm"d3e f2e2 | \
+d2B2 c2d2 | "C"e2c2 c2ga | g2f2 e2d2 | e2c2 c2fg |
+"Am"a2g2 "F"f2e2 | "Dm"f2d2 d2a2 | "G"g2f2 e2d2 | "A"^c3B A2B2 | \
+^c2d2 e2c2 | "D"d6"A"e2 | "Dm"f2g2 "A"a4 | "D"^f8 |]
+
+X:44
+T:Bouffons
+C:Thoinot Arbeau, Orchesographie, 1589
+M:C
+L:1/4
+K:F
+FG AA | B4 | AGAF | G4 | FG AA | B4 | AF GG | F4 |
+c2 dc | B4 | AG AB | c4 | c2dc | B4 | AF GG | F4 ||
+
+X:45
+T:Bouffons
+C:Jean d'Estrées, Tiers Livre de Danseries, 1559
+M:C
+L:1/8
+K:G major
+P:A
+ |: "G"G3A B2G2 | "F"c6c2 | "G"B3B "F"A2"G"G2 | "D"F4 F4 | "G"G3A B2G2 | "F"c6"G"B2 | \
+"F"A2"Em"G4"D"F2 | "G"G4 G4 :: 
+P:B
+"G"d4 d2"C"e2 | "F"c4 c2"C"c2 | "G"B2B2 "F"A2"G"G2 | "D"F4 F4 | \
+"G"d4 d2"C"e2 | "F"c4 c2"Dm"d2 | "G"B2"C"G4"D"F2 | "G"G4 G4 :| 

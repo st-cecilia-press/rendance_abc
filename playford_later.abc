@@ -1,0 +1,177 @@
+X:1
+T: The Beginning of the World
+T: or, St. Ledgers
+C: adapted from Sellinger's Round by William Byrd and John Playford by Henry of Maldon
+P: AA B CC x 3
+L: 1/8
+K: G
+P:A
+G |: G>AB GAB | c2 c d>e=f | ged c2B | [1 (C3 C) g :| [2 (C3 C) d ] |\
+P: B
+e3 e>dc | d3 d2 d | 
+Bd>c BAG | A3 A2 B \
+P: C
+|: c>dc B2 G | c>de d2B | A2 G F>EF | [1 G2 G G>AB :| [2 (G3 G2) |]
+
+X: 1
+C: John Playford, The Dancing Master, 1670
+T: Black Nag
+N: arr. Jay Ter Louw. Matches Pile 2018
+P: AA BB x 3
+M: 6/4
+L: 1/8
+K: A minor
+E2 |: \
+P: A
+"Am"A3BA2 "Em"B3AB2 | "Am"c3Bc2 "G"B2c2d2 | "Am"e3dc2 "G"B3AB2 | "Am"A6- A4E2 :: \
+P: B
+"Em"B2G2E2 B2G2E2 | B2G2E2 B2G2E2 | 
+"Am"e2c2A2 e2c2A2 | e2c2A2 e2c2A2 | "Em"B2G2E2 B2G2E2 | B2G2E2 B2c2d2 | \
+"Am"e3dc2 "E"B3cB2 |  [1 "Am"A6- A4A2 :|]  [2 "Am"A12 |] 
+
+X: 2
+I: linebreak $
+C: John Playford, The Dancing Master, 1670
+T: Epping Forest
+K: D minor
+M: 6/4
+L: 1/8
+P: A
+ |: "Gm"d4d2 "F"c3BA2 | "Gm"B3AG2 "D"^F4e2 | "Bb"f3ed2 "F"c4B2 | "Dm"A6- A4d2 | "Bb"f3ed2 "F"c4A2 | "Gm"B3AG2 "D"^F4D2 | 
+"C"E3FG2 "D"G4^F2 |  [1 "Gm"G12 :|]  [2 "Gm"G6 G4 :: 
+P: B
+Bc | "Bb"d6 "F"c6 | "Bb"B6- B4de | "Dm"f6 "A"e6 | 
+"Dm"d6- d4 :: 
+P: C
+d2 | "Gm"d3ed2 "F"c3BA2 | "Gm"B3AG2 "D"^F4D2 | "C"E3FG2 "D"G4^F2 |  [1 "Gm"G6- G4 :|]  [2 "Gm"G12 |] 
+
+X: 3
+T: Female Sailor
+T: Marche pour les Matelots
+C: Marain Marais, Alcyone, 1706
+M: 6/8
+L: 1/8
+K: E minor
+"Em"E2B "B"B2A | "Em"G3 "D"A3 | "Em"B2A G2F | G2F E2^D | E2B "B"B2A | "Em"G3 "D"A3 | \
+"Em"B2A G2F | E6 :|
+"Em"g2f e2^d | e3 "B"B3 | "Em"g2f e2^d | e3 "E"B2d | \
+"Am"c2A "Em"B2F | "Em"G2E G2A | B3 "A"^c2^d | "Em"e6 |
+ "Em"g2f e2^d | e3 "B"B3 | \
+"Em"g2f e2^d | e3 "E"B2d | "Am"c2A "Em"B2F | "Em"G2E G2A | B3 "B"F2E | "Em"E6 |] 
+
+X: 4
+I: linebreak $
+T: Hole in the Wall
+C: John Playford, The Dancing Master, 1695
+K: G major
+M: 3/2
+L: 1/4
+"G"B3/c/ B/c/d"D"Ad | "Em"G3/A/ G/A/B"Bm"FB | "C"E3/F/ E/F/G"G"DB | "Dsus4"G3F"G"G2 | "G"B3/c/ B/c/d"D"Ad | \
+"Em"G3/A/ G/A/B"Bm"FB | 
+"C"E3/F/ E/F/G"G"DB | "C Dsus4"G3F"G"G2 ||
+"Em"g3/f/ e/f/g"D"fe | "B"^d3/e/ d/e/fBf | "Em"g3/f/ e/f/g"D"fe | "Am    B"e3^d"Em"e2 | 
+"C"E3/F/ E/F/G"D"F/G/A | "G"G3/A/ G/A/B"Am"A/B/c | "G"B3/c/ B/c/d"D"Dd | "G D"B3A/B/"G"G2 |] 
+
+X: 5
+I: linebreak $
+T: Jamaica
+C: John Playford, The Dancing Master, 1670
+M: C|
+L: 1/4
+K: F major
+"F"FA AB/c/ | "Bb"d"F"c "Bb"d2 | "F"cA AG/F/ | "Csus4"G2 "F"F2 | "F"FA AB/c/ | "Bb"d"F"c "Bb"d2 | 
+"F"cA AG/F/ | "Csus4"G2 "F"F2 |: 
+"F"ff "C"ee | "Bb"dd "F"cA | "Bb"ff e/f/g | "Bb"d2 "F"c2 | 
+"F"ff "C"ed/c/ | "Bb"dd "F"cA | "Bb"B/c/d "F"cB/A/ | "Csus4"G2 "F"F2 :| 
+
+X:12
+T: The Jumbling of Harry
+C: Jumbled by Henry of Maldon
+C: for the Lovelace Ms. dance "The Jumbling of Joan"
+P: AA BB x 3
+L: 1/8
+M: C|
+K: G
+P: A
+d3 c B2A2 | | BABc d2cd | e2d2 cdcB | A6 B2 | c2 B2 AGAB | [1 G8 :| [2 G6 G2 
+|: F4 D2 F2 | A4 G2 A2 | B3 A G2 A2 | | F2 D2 E2 F2 | G3 A Bc d2 | e3 d cdcB | A2 G2 G2 F2 | [1 G6 G2 :| [2 G8 |]
+
+X: 6
+T: Kelsterne Gardens
+C: John Playford, The Dancing Master, The Third Volume 1726
+M: C|
+B: Barnes 2nd ed.
+Z: 2007 John Chambers <jc@trillian.mit.edu>
+F:http://trillian.mit.edu/~jc/music/abc/England/tune/KelsterneGardens_Dm.abc	 2007-09-26 22:34:42 UT
+L: 1/8
+K: D minor
+"Dm"D2d2 dcBA | "Gm"B2G2 E2G2 | "C"C2c2 cBAG | "F"BAGF "C"AGFE | \
+"Dm"D2d2 dcBA | "Gm"B2G2 E2G2 | "Dm"A2F2 "A7"A,2^C2 | "Dm"D8 :: 
+"Dm"d2a2 a2ga | "Gm"bagf "C"e2c'2 | "Bb"d2b4d2 | "A"^c2a4ga | \
+"Gm"bagf "A7"ed^ce | "A7"A2^c2 "Dm"d4 :| 
+
+X: 7
+I: linebreak $
+T: Lightly Love
+T: Light of Love, or Earl of Bedford
+P: One round: AA BBB BBB; end with AA BB
+C: 16th. C English
+K: C major
+M: 6/4
+L: 1/8
+P: A
+ |: "C"G3Gc2 B2G2E2 | "F"F3GE2 "G"D4D2 | "C"G3Gc2 B2G2E2 | "F"F3E"G"D2 "C"C4C2 :: 
+P: B
+"F"F3GF2 "C"E3DC2 | "F"F3GA2 "G"D4D2 | 
+"C"G3Gc2 B2G2E2 | "F"F3E"G"D2 "C"C4C2 :| 
+
+X:8
+T:Oranges and Lemons
+B: 3LF / Barnes
+C: John Playford, The Dancing Master, 1670
+M:C|
+L:1/8
+K:G
+%
+%
+"D" d2 e2 afed | "G" e3 d "(A)" B3 A | "D" d3 f afed | [1 "A" e3 f "D" d4 :| [2 "A" e3 f "D" d2 ga |]
+"G" b6 fg | "D" a6 fe | d3 f afed | "G" e3 d "(A)" B3 A | "D" d3 f afed | "A" e3 f "D" d2 ga |
+"G" b6 fg | "D" a6 fe | d3 f afed | "G" e3 d "(A)" B3 A | "D" d3 f afed | [1 "A" e3 f "D" d2 ga :| [2 "A" e3 f "D" d4 |]
+
+X:9
+T:Prince William
+M:C|
+C: Walsh c. 1731
+B: 3LF/Barnes
+L:1/4
+K:G
+D | "G" G2 B A/G/| "D" A2 D "C" uc| "G" B2 "D" A2| "G" G/F/G/A/ G "D" A | "G" B G D B | "D" A3 "Em" G| "D" F d "A" A ^c | "D" d3 :|
+|: c/d/|"G" d2 "Am" e d | "C" c>B "D" A d | "Am" c B "D" A "G" G | "D" F/G/A/F/ "G" D2 | "G" G F/G/ "D" A G/A/ | "G" B A/B/ "C" c d | "G" B A/G/ "D" D F | "G" G3 :|
+
+X: 10
+T: Sellinger's Round
+N: arr. Robert Smith; matches Pile 2018
+C: William Byrd, My Ladye Nevells Booke, 1591
+P: AA BB x 4
+M: 6/4
+L: 1/8
+K: C major
+P: A
+ |: "G"G6 "C"G3AB2 | "C"c6 c3de2 | "Dm"d4c2 "G"B3AB2 |  [1 "C"c12 :|]  [2 "C"c6- c4d2 :: \
+P: B
+"C"e6 e3dc2 | "G"d6- d4d2 | 
+"G"B3cd2 d3cB2 | "D"A6 d4"G"B2 | "C"c3dc2 "G"B4G2 | "F"A3Bc2 "G"B4G2 | \
+"F"A4"C"G2 "D"^F3EF2 |  [1 "G"G6- G4d2 :|]  [2 "G"G12 :| 
+
+X: 11
+I: linebreak $
+T: Trenchmore
+T: Tomorrow the fox will come to towne
+C: Thomas Ravenscroft, Deuteromelia, 1609
+K: G major
+M: 6/4
+L: 1/8
+"G"G2 | "D"F2F2"G"G2 "D"A4"G"B2 | "D"A4"G"G2 "D"A6 | "G"G6 B6 | "G"d4"C"c2 "G"B4G2 | "D"F2F2"G"G2 "D"A4"G"B2 | "F"c4"G"B2 "D"A4"G"Bc | 
+"D"d4"Em"B2 "Am D"A4A2 | "G"G6- G4G2 | "D"F4"G"G2 "D"A4"G"B2 | "D"A4F2 A4"G"D2 | "G"G2G2G2 B4B2 | "G"d4"C"c2 "G"B4G2 | 
+"D"F4"G"G2 "D"A4"G"B2 | "F"c4"G"B2 "D"A6 | "G"B6 d6 | "G"d4B2 d4G2 | "D"F4"G"G2 "D"A4"G"B2 | "F"c4"G"B2 "D"A4"G"Bc | 
+"D"d4"Em"B2 "Am D"A4A2 | "G"G6- G4 |] 

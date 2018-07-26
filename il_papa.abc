@@ -1,0 +1,50 @@
+X: 1
+I: linebreak $
+T: La Vita
+T: for three
+C: Nathan Kronenfeld
+P: 5x
+M: 6/4
+L: 1/8
+K: C major
+P: A
+"Am"E6 A3Bc2 | "Dm"d2A2d2 "C"c3BAG | "Am"c4B2 "Dm"d3cBA | "E"A4^G2 "Am2."A6 || 
+P: B
+"Am"B3GB2 "G"A2G2E2 | "Am"B3GB2 "Am"A2G2E2 | 
+EFGFED E6 |] 
+
+X: 2
+I: linebreak $
+T: Lo Dimostra
+T: for three
+C: Nathan Kronenfeld
+P: AAA BB C
+M: 6/4
+L: 1/8
+K: C major
+P: A
+ |: "G"G3AB2 B3cd2 | "C"e3dc2 c3de2 | "D"d4A2 A3Bc2 | "D"d4A2 A3BA2 | "Em"G4E2 E6 | "Am"G3AB2 B3cB2 | 
+"G"c3BA2 A3Bc2 | "C"B3AG2 G3AG2 | "C"G3FE2 "Dm"D4C2 | "G"C3DE2 "C"D3EF2 | "F"G3AB2 c4G2 | "F"A3GF2 "D"F3GA2 | 
+"G"A3Bc2 d4A2 | "G"G3AB2 "F"d3cB2 | "C"B3AG2 A3BA2 | "G"G3FE2 "C"E3FG2 | "C"G3AB2 "^ (3)"c6 :: 
+P: B
+"F"G3FE2 E3FG2 | 
+"G"A3GF2 F3GA2 | "G"B3AG2 "C"G3AB2 |  [1 "G"G3AB2 "C"c4A2 :|]  [2 "Am"G3AB2 c6 :| 
+P: C
+"G"c3Bc2 A3Bc2 | "F"B3AB2 G3AB2 | 
+"G"A3GA2 "C"F3GA2 | G3AB2 c6 |] 
+
+X: 3
+T: Lucretia
+T: for three
+P: AA B CC x5
+K: C major
+M: 6/4
+L: 1/8
+C: Nathan Kronenfeld
+P: A
+ |: "G"d4c2 B4AG | "D"A2B2A2 "G"G6 | "G"G4d2 d4cB | "C"c4e2 e4dc | "G"B4d2 d4cB | "D"A4G2 A6 :| 
+P: B
+"G"G6 "D"^F4A2 | "G"B2c2B2 d6 | "G"G4d2 d4cB | "C"c4e2 e4dc | "G"B4d2 d4cB | "D"A4G2 A6 |: 
+P: C
+"G"G6 "D"^F4A2 | "G"B2c2B2 d6 | "G"d4c2 B4AG | "D"A2B2A2 "G"G6 :| 
+

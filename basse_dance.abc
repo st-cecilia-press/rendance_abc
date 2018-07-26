@@ -1,0 +1,1014 @@
+X:1
+I:linebreak $
+T:Alenchon
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+A,12| C12| D12| A,12| F,12| E,12| D,12| D,12| F,12| 
+A,12| D12| C12| A,12| F,12| D,12| E,12| D,12| D,12| F,12| G,12|
+A,12| A,12| D12| A,12| F,12| D,12| F,12| E,12| D,12| D,12| D,12|]
+
+X:2
+I:linebreak $
+T:La Allemande
+C:Paul Butler
+M:6/4
+L:1/8
+K:Gdor
+D12 | G12| G12 | A12 | D12 | D12 | C12 | A12 | 
+F12 | D12 | G12 | G12 | F12 | C12 | D12 | G12 |
+ G12 | A12 | D12 | D12 | D12 | G12 |]
+
+X:3
+I:linebreak $
+T:Aliot nouvella
+M:6/4
+L:1/8
+K:Ddor clef=treble-8 octave=1 
+D,12 | D,12 | F,12 | A,12 | B,12 |
+A,12 | C12 | D12 | C12 |
+A,12 | A,12 | G,12 | F,12 |
+F,12 | B,12 | A,12 | E,12 |
+D,12 | F,12 | E,12 | D,12 |
+D,12 | F,12 | E,12 | F,12 |
+G,12 | A,12 | _B,12 | A,12 |
+G,12 | F,12 | F,12 | F,12 |
+E,12 | D,12 | D,12 | D,12 |]
+
+X:4
+I:linebreak $
+T:Amours
+M:3/2
+L:1/8
+K:C clef=treble-8 octave=1 
+F,12| E,12| F,12| F,12|
+E,12| D,12| E,12| ^F,12|
+G,12| =F,12| E,12| F,12|
+F,12| E,12| D,12| E,12|
+^F,12| G,12| G,12|]
+
+X:5
+I:linebreak $
+T:Avignon
+M:3/2
+L:1/8
+K:C clef=treble-8 octave=1 
+D,12| C,12| D,12|
+E,12| F,12| E,12| D,12|
+D,12| G,12| F,12| E,12|
+D,12| A,12| F,12| E,12|
+E,12| G,12| G,12| A,12|
+A,12| C12| B,12| A,12|
+A,12| G,12| F,12| E,12|
+E,12| G,12| A,12| E,12|
+D,12| F,12| E,12| D,12|
+D,12| A,,12| C,12| D,12|
+E,12| F,12| E,12| D,12|
+D,12| D,12|]
+
+X:6
+I:linebreak $
+T:Barbesieux
+M:6/4
+L:1/8
+K:Dm clef=treble-8 octave=1
+B,12 | D12 | C12 | B,12 | A,12 |
+G,12 | F,12 | A,12 | G,12 |
+A,12 | A,12 | D12 | C12 |
+=B,12 | A,12 | G,12 | F,12 |
+E,12 | D,12 | F,12 | G,12 |
+F,12 | E,12 | D,12 | D,12 |
+D12 | E12 | D12 | C12 |
+=B,12 | A,12 | A,12 | B,12 |
+A,12 | F,12 | E,12 | D,12 |
+D,12 | D,12 |]
+
+X:7
+I:linebreak $
+T:Barcelonne
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+G,12| B,12| D12| C12|
+B,12| A,12| D,12| E,12|
+D,12| D,12| A,12| B,12|
+D12| C12| B,12| A,12|
+G,12| F,12| E,12| D,12|
+D,12| F,12| E,12| D,12|
+F,12| A,12| C12| A,12|
+F,12| D,12| F,12| E,12|
+D,12| D,12| D,12|]
+
+X:8
+I:linebreak $
+T:La basine
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+F,12| D,12| E,12| D,12|
+F,12| E,12| F,12| A,12|
+B,12| A,12| C12| B,12|
+A,12| A,12| A,12| B,12|
+A,12| G,12| F,12| F,12|
+E,12| D,12| D,12| D,12|]
+
+X:9
+I:linebreak $
+T:Bayonne
+M:6/2
+L:1/8
+K:C clef=treble-8 octave=1 
+A,12| B,12| D12| C12| B,12| A,12| D12| C12| A,12| F,12| E,12| D,12|
+w:B:~R b ss d r ss d d d ss r r w: T:~R b ss d d d ss r r r b ss 
+E,12| D,12| D,12| G,12| B,12| A,12| G,12| A,12| D12| C12| B,12| A,12|
+w:r b ss d r b ss d r ss d d
+w:d ss r r r b ss d d d ss r 
+A,12| B,12| A,12| G,12| F,12| D,12| E,12| D,12| D,12| D,12|]
+w:d r r r b ss d r b cw: r r b ss d r r r b c
+
+X:10
+I:linebreak $
+T:Beaulte de Castile
+M:6/8
+L:1/8
+K:C clef=treble-8 octave=1 
+C6| C6| G,6| C6|
+C6| C6| G,6| C6|
+C6| G,6| C4-CC| D2C B,2A,|
+G,4-G,G,| D2C B,A,/2G,/2A,/2^F,/2| G,6| =F,6|
+F,6| F,4-F,G,| D2C B,A,/2G,/2A,/2^F,/2| G,6|
+=F,6| F,6| F,4-F,G,| D2C B,A,/2G,/2A,/2^F,/2| G,6|]
+
+X:11
+I:linebreak $
+T:Beaulte
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+D12| D12| C12| C12|
+A,12| G,12| F,12| F,12|
+G,12| A,12| D,12| F,12|
+E,12| D,12| F,12| G,12|
+A,12| D12| C12| B,12|
+A,12| A,12| A,12| D12|
+A,12| D,12| F,12| E,12|
+D,12| E,12| F,12| E,12|
+D,12| G,12| F,12| D,12|
+E,12| D,12| D,12| D,12|]
+
+X:12
+I:linebreak $
+T:La Belle
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+D12| 
+A,12| D,12| E,12| D,12| 
+D,12| A,12| C12| D12| 
+C12| B,12| A,12| A,12| 
+B,12| B,12| A,12| F,12| 
+E,12| D,12| F,12| E,12| 
+D,12| D,12| A,12| B,12| 
+A,12| G,12| F,12| E,12| 
+D,12| D,12| D,12| D,12|]
+
+X:13
+I:linebreak $
+T:Casuelle la Nouvelle
+T:La Spagna
+N:adapted from Heinrich Isaac setting
+K:F major clef=G-8
+M:6/4
+L:1/2
+(d3 | d3) | A3 | G3 | B3 | A3 | (G3 | G3) | B3 | c3 | (d3 | d3) |
+f3 | e3 | d3 | f3 | g3 | g3 | c3 | d3 | c3 | c3 | g3 | g3 | 
+f3 | f3 | g3 | c3 | B3 || _e3 | (d3 | d3) | G3 | A3 | c3 | d3 | f3 | 
+_e3 | d3 | c3 | B3 | A3 | G3 | d3 | (G3  | HG3 ) |]
+
+X:14
+T:Cupido
+T:Canzon di Pifari
+C:Cornazano, c. 1465
+M:6/4
+L:1/8
+K:Gmaj clef=G-8
+B12 | B12 | d12 | e12 | A12 | B12 | A12 | A12 | e12  | d12 | c12 | d12 | e12 | e12 | A12 | d12 |
+c12 | c12 | B12 | B12 | G12 | B12 | d12 | e12 | A12 | B12 | A12 | A12 | B12 | c12 | A12 | G12 |
+e12 | d12 | c12 | c12 | d12 | e12 | c12 | d12 | A12 | B12 | A12 | B12 | A12 |]
+
+X:15
+I:linebreak $
+T:Danse de Cleves
+M:6/4
+L:1/8
+K:D minor
+P:A
+G2 | d2cBc/B/A/G/ A2G2GA/B/ | c2AFG2 F2F2F2 | B2B2c2 d2d2c2 | B2cBA2 G2G2G2 || 
+P:B
+d2cBGB A2G2GA/B/ | c2ABG2 F2F2F2 | 
+B2B2c2 d2G2_e2 | dc2BA2 G2G2G2 |: 
+P:C
+g2g2g2 a2d2c/d/e/f/ | gfede2 d2d2G2 :| 
+P:D
+d2cBc/B/A/G/ A2G2GA/B/ | c2AFG2 F2F2F2 | 
+B2B2c2 d2d2c2 | B2cBA2 G2G2G2 || 
+P:E
+g2g2g2 a2d2ef | g2fde2 d2d2d2 | g2g2g2 a2d2ef | g2fge2 d2d2G2 || 
+P:F
+d2cB2G A2G2AB | c2BAG2 F2F2F2 | B2B2c2 d2d2c2 | B2GBA2 G2G2G2 || 
+P:G
+d2cB2c A2G2AB | c2BAG2 F2F2F2 | 
+B2B2c2 d2d2c2 | B2GBA2 G6 |] 
+
+X:16
+I:linebreak $
+T:La doulce amour
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+A,12| A,12| F,12| E,12|
+A,12| A,12| D,12| E,12|
+D,12| D,12| A,12| A,12|
+D,12| G,12| E,12| F,12|
+E,12| E,12| A,12| A,12|
+C12| B,12| A,12| D,12|
+A,12| A,12| A,12| G,12|
+F,12| A,12| B,12| A,12|
+A,12| C12| B,12| A,12|
+G,12| E,12| D,12| D,12|
+D,12|]
+
+X:17
+I:linebreak $
+T:Le doulz espoir
+M:6/4
+L:1/8
+K:Ddor clef=treble-8 octave=1 
+F,12| D,12| E,12| F,12|
+A,12| G,12| F,12| F,12|
+C12| A,12| C12| B,12|
+A,12| G,12| F,12| F,12|
+A,12| G,12| D,12| C,12|
+C,12| D,12| D,12| C,12|
+F,12| A,12| C12| B,12|
+A,12| G,12| F,12| C12|
+D12| C12| F,12| C12|
+B,12| A,12| C12| B,12|
+A,12| G,12| F,12| E,12|
+D,12| D,12| A,12| C12|
+B,12| C12| B,12| A,12|
+G,12| G,12| C12| B,12|
+A,12| A,12| A,12| G,12|
+F,12| F,12| F,12|]
+
+X:18
+I:linebreak $
+T:La basse danse du roy
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+F,12| F,12| E,12| A,12|
+A,12| E,12| D,12| C,12|
+C,12| E,12| E,12| F,12|
+A,12| G,12| F,12| E,12|
+E,12| E,12| F,12| G,12|
+F,12| E,12| D,12| C,12|
+C,12| C,12| D,12| C,12|
+C,12| G,12| F,12| A,12|
+G,12| G,12| E,12| F,12|
+E,12| D,12| C,12| C,12|
+F,12| G,12| A,12| A,12|
+E,12| D,12| C,12| C,12|
+C,12|]
+
+X:19
+I:linebreak $
+T:Engoulesme
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+F,12| A,12| D12| C12|
+A,12| G,12| F,12| E,12|
+D,12| D,12| A,12| D12|
+A,12| G,12| A,12| G,12|
+D12| C12| B,12| A,12| G,12| 
+D,12| E,12| D,12| D,12| 
+D12| A,12| F,12| D,12| 
+F,12| G,12| F,12| E,12| 
+D,12| D,12| D,12|]
+
+X:20
+I:linebreak $
+T:Le Joyeulx espoyr
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+G,12| E,12| F,12| C,12|
+G,12| B,12| A,12| G,12|
+B,12| C12| G,12| F,12|
+C,12| F,12| E,12| D,12|
+C,12| G,12| C,12| D,12|
+C,12| C,12| C,12|]
+
+X:21
+I:linebreak $
+T:Filles a marier
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+A,12| A,12| C12| G,12|
+C12| D12| C12| C12|
+C12| D12| E12| D12|
+C12| B,12| A,12| A,12|
+E12| B,12| D12| G,12|
+C12| D12| C12| C12|
+C12| D12| E12| D12|
+C12| B,12| A,12| A,12|
+A,12|]
+
+X:22
+I:linebreak $
+T:Florentine
+M:3/2
+L:1/8
+K:C clef=treble-8 octave=1 
+x12| A,12| F,12| G,12|
+D,12| A,12| C12| B,12|
+A,12| ^C12| D12| A,12|
+G,12| D,12| G,12| F,12|
+E,12| D,12| A,12| D,12|
+E,12| D,12| D,12| A,12|
+F,12| G,12| D,12| A,12|
+=C12| B,12| A,12| ^C12|
+D12| A,12| G,12| D,12|
+G,12| F,12| E,12| D,12|
+A,12| D,12| E,12| D,12|
+D,12| D,12|]
+
+X:23
+I:linebreak $
+T:Franchoise nouvelle
+M:6/2
+L:1/8
+K:C clef=treble-8 octave=1 
+C4C4C4 B,4G,4A,2B,2| 
+C3 B,A,2 G,2A,4 G,4G,4G,4| 
+C4C4C4 B,3 A,G,4A,2B,2| 
+C4G,2 B,2A,4 G,4G,4C2B,2|
+A,4G,2 F,3 E,D,2 E,4C,4C,4| 
+F,4E,2 C,2D,4 E,4E,4C2B,2| 
+A,4G,2 F,3 E,D,2 E,4C,4C,4| 
+F,3 E,D,2 C,2D,4 C,4C,4C,4|
+C,4C,4D,4 E,4E,4F,4| 
+E,4D,4D,4 C,4C,4C,4| 
+C,4C,4D,4 E,4E,4F,4| 
+E,2 (3G,4-G,F,4- F,D,4-D, C,4C,4C,4|
+C4C4C4 B,4G,4A,2B,2| 
+C3 B,A,2 G,2A,4 G,4G,4G,4| 
+C4C4C4 B,3 A,G,4A,2B,2| 
+C4G,2 B,2A,4 G,4G,4C2B,2|
+A,4G,2 F,3 E,D,2 E,4C,4C,4| 
+F,4E,2 C,2D,4 E,4E,4C2B,2| 
+A,4G,2 F,3 E,D,2 E,4C,4C,4| 
+F,3 E,D,2 C,2D,4 C,4C,4C,4|
+C,4C,4D,4 E,4E,4F,4| 
+E,4D,4D,4 C,4C,4C,4| 
+C,4C,4D,4 E,4E,4F,4| 
+E,2 (3G,4-G,F,4- F,D,4-D, C,4C,4C,4|
+C,16 |]
+
+X:24
+I:linebreak $
+T:Le grant Rouen
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+A,12| G,12| C12| C,12|
+E,12| D,12| C,12| C,12|
+G,12| G,12| A,12| C12|
+B,12| A,12| G,12| G,12|
+G,12| B,12| C12| C12|
+A,12| F,12| E,12| E,12|
+E,12| D,12| C,12| D,12|
+C,12| B,12| A,12| C12|
+D12| D12| G,12| A,12|
+G,12| F,12| E,12| E,12|
+A,12| B,12| C12| F,12|
+C,12| D,12| C,12| C,12|
+C,12|]
+
+X:25
+I:linebreak $
+T:Le grant Thorin
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1
+A,12| A,12| F,12| G,12| A,12| 
+C12| B,12| B,12| A,12| A,12| 
+B,12| F,12| E,12| D,12| E,12| E,12|
+D,12| D,12| B,12| B,12| C12| B,12| 
+A,12| A,12| B,12| A,12| D12| 
+C12| B,12| A,12| G,12| F,12|
+F,12| A,12| C12| B,12| A,12| 
+C12| B,12| A,12| A,12| F,12| 
+A,12| G,12| F,12| G,12| F,12| 
+F,12| F,12|]
+
+X:26
+I:linebreak $
+T:Le hault et le bas
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+F,12| D,12| E,12| D,12| F,12| 
+G,12| A,12| A,12| A,12| C12| 
+D12| A,12| D,12| E,12| D,12| 
+D,12| F,12| D,12| E,12| D,12|
+F,12| G,12| A,12| A,12| A,12| 
+C12| D12| A,12| D,12| E,12| 
+D,12| D,12| D,12|]
+
+X:27
+I:linebreak $
+T:La haulte Borgongne (Lydian)
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1
+B,12| A,12| E,12| B,,12| C,12| 
+D,12| _E,12| F,12| F,12| A,12| 
+G,12| G,12| F,12| F,12| G,12| 
+A,12| F,12| D,12| _E,12| _E,12|
+D,12| C,12| B,,12| C,12| D,12| 
+F,12| D,12| C,12| B,,12| B,,12| 
+B,12| C12| F,12| G,12| F,12| 
+F,12| C12| =B,12| A,12| G,12|
+F,12| =E,12| D,12| D,12| F,12| 
+G,12| F,12| C,12| D,12| C,12| 
+_B,,12| B,,12| B,,12|]
+
+X:28
+I:linebreak $
+T:La haulte Borgongne (Dorian)
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+D12| C12| G,12| D,12| E,12| 
+F,12| G,12| A,12| A,12| C12| 
+B,12| B,12| A,12| A,12| B,12| 
+C12| A,12| F,12| G,12| G,12| F,12| 
+E,12| D,12| E,12| F,12| A,12| 
+F,12| E,12| D,12| D,12| D12| 
+E12| A,12| B,12| A,12| A,12|
+E12| D12| C12| B,12| A,12| 
+G,12| F,12| F,12| A,12| B,12| 
+A,12| E,12| F,12| E,12| D,12| D,12|
+D,12|]
+
+X:29
+I:linebreak $
+T:Je languis
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+C,12| E,12| G,12| A,12| G,12| 
+G,12| G,12| A,12| C12| B,12| 
+A,12| G,12| F,12| E,12| E,12| 
+C,12| C,12| E,12| G,12| G,12|
+A,12| G,12| G,12| C,12| E,12| 
+G,12| A,12| G,12| F,12| E,12| 
+D,12| C,12| C,12| C12| C12| 
+B,12| D12| B,12| A,12| G,12|
+G,12| A,12| G,12| G,12| G,12|]
+
+X:30
+I:linebreak $
+T:Je sui povere de leesse
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+C,12| C,12| E,12| E,12| G,12| 
+F,12| E,12| D,12| C,12| C,12| 
+G,12| F,12| C,12| D,12| C,12| 
+C,12| C,12| E,12| G,12| A,12|
+G,12| C12| B,12| C12| G,12| 
+G,12| B,12| B,12| E,12| E,12| 
+G,12| F,12| E,12| E,12| G,12| 
+A,12| G,12| F,12| C,12| D,12|
+C,12| C,12| C,12|]
+
+X:31
+I:linebreak $
+T:Joieusement
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+A,12| F,12| E,12| E,12| F,12| 
+G,12| C,12| E,12| D,12| C,12| 
+C,12| E,12| F,12| G,12| C12| 
+B,12| A,12| A,12| G,12| C12|
+G,12| C,12| E,12| D,12| C,12| 
+C,12| D,12| E,12| D,12| C,12| 
+G,12| G,12| F,12| E,12| E,12| 
+C,12| D,12| C,12| C,12| C,12|]
+
+X:32
+I:linebreak $
+T:Le joieux de Brucelles
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+D,12| F,12| A,12| G,12| C12| 
+B,12| A,12| G,12| G,12| G,12| 
+C12| A,12| D,12| E,12| D,12| 
+D,12| G,12| F,12| E,12| E,12|
+A,12| D12| G,12| D,12| F,12| 
+E,12| D,12| D,12| F,12| A,12| 
+D,12| E,12| D,12| D,6 x6| D,12|]
+
+X:33
+I:linebreak $
+T:Languir en mille destresse
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+C,12| E,12| G,12| A,12| G,12| 
+E,12| C,12| C,12| G,12| G,12| 
+A,12| C12| B,12| A,12| G,12| 
+F,12| E,12| E,12| C,12| C,12|
+E,12| E,12| G,12| A,12| G,12| 
+G,12| C,12| E,12| G,12| A,12| 
+G,12| F,12| E,12| D,12| C,12| 
+C,12| C,12|
+
+X:34
+I:linebreak $
+T:Lauro
+T:Re di Spagna
+C:Vatican, Cap. 283
+N:trans. Al Cofrin
+N:for dance by Ebreo (15th C)
+K:F major clef=G-8
+M:6/4
+L:1/4
+d3 d3 | A3 G3 | d2 c B A2 | G3 G3 | 
+B3 c3 | d3 d3 | f3 _e3 | d3 ^f3 | g3 g3 ||
+c3 d3 | c3 c3 | g3 g3 | f3 f3 | g3 c3 | B3 _e3 | d3 d3 | 
+G3 A3 | c3 d3 | f3 e3 | d3 c3 | B3 A3 | G3 A3 | G6 |]
+
+X:35
+I:linebreak $
+T:Lyron
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+G,12| F,12| E,12| D,12| F,12| 
+E,12| D,12| D,12| G,12| G,12| 
+C12| D12| E12| D12| C12| 
+B,12| B,12| A,12| F,12| E,12|
+D,12| D,12| E,12| D,12| F,12| 
+G,12| C12| B,12| A,12| B,12| 
+C12| A,12| G,12| G,12| G,12|]
+
+X:36
+I:linebreak $
+T:Maistresse
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+D12| D12| C12| B,12| A,12| 
+D,12| G,12| A,12| G,12| G,12| 
+F,12| G,12| A,12| C12| G,12| 
+A,12| G,12| G,12| D12| 
+E12| D12| G,12| F,12| E,12|
+D,12| D,12| A,12| B,12| A,12| 
+G,12| C12| B,12| A,12| A,12| 
+D,12| F,12| G,12| D12| 
+B,12| A,12| G,12| G,12| G,12|]
+
+X:37
+I:linebreak $
+T:M'amour
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+F,12| D,12| E,12| D,12| A,12| 
+D12| C12| B,12| A,12| B,12| A,12| 
+A,12| B,12| C12| D12| D12|
+C12| B,12| A,12| A,12| A,12| 
+B,12| A,12| G,12| F,12| E,12| 
+D,12| E,12| D,12| D,12| D,12|]
+
+X:38
+I:linebreak $
+T:Marchon la dureau
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+F,12| E,12| F,12| G,12|
+A,12| A,12| D,12| F,12|
+G,12| E,12| D,12| F,12|
+E,12| F,12| G,12| A,12|
+A,12| D,12| F,12| E,12|
+D,12| A,12| B,12| C12|
+B,12| A,12| A,12| B,12|
+C12| B,12| A,12| A,12|
+G,12| A,12| B,12| C12|
+A,12| C12| B,12| A,12|
+F,12| F,12| F,12|]
+
+X:39
+I:linebreak $
+T:La Margaritte
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+C12| D12| B,12| B,12| G,12| F,12| 
+E,12| E,12| G,12| A,12| C,12| E,12|
+D,12| C,12| C,12| E,12| F,12| G,12| 
+C12| G,12| G,12| C12| G,12| C,12|
+E,12| D,12| C,12| C,12| E,12| D,12| 
+E,12| D,12| C,12| G,12| F,12| D,12|
+C,12| C,12| C,12|]
+
+X:40
+I:linebreak $
+T:Le mois de may
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+C12| C12| D12| B,12| A,12| A,12| 
+C12| E12| D12| C12| D12| C12|
+A,12| B,12| G,12| C12| D12| 
+E12| D12| C12| A,12| C12| 
+B,12| G,12| C12| A,12| D12| 
+C12| B,12| B,12| C12| B,12|
+A,12| A,12| A,12|]
+
+X:41
+I:linebreak $
+T:Mon Cousin, je me recommende
+M:3/2
+L:1/8
+K:C clef=treble-8 octave=1 
+G,12| F,12| D,12| E,12| F,12| 
+E,12| F,12| G,12| F,12| E,12| 
+D,12| E,12|]
+
+X:42
+I:linebreak $
+T:Mon leal desire
+M:6/4
+L:1/8
+K:Ddor clef=treble-8 octave=1 
+F,12 | G,12 | A,12 | A,12 | D12 |
+C12 | D12 | A,12 | C12 |
+_B,12 | A,12 | A,12 | F,12 |
+A,12 | G,12 | D,12 | E,12 |
+E,12 | D,12 | D,12 | A,12 |
+A,12 | B,12 | B,12 | D12 |
+E12 | D12 | D12 | A,12 |
+B,12 | A,12 | A,12 | E,12 |
+F,12 | E,12 | D,12 | A,12 |
+C12 | D12 | D12 | A,12 |
+F,12 | D,12 | F,12 | E,12 |
+E,12 | A,12 | B,12 | A,12 |
+A,12 | F,12 | E,12 | D,12 |
+E,12 | D,12 | D,12 | D,12 |]
+
+X:43
+I:linebreak $
+T:Ma meiulx ammee
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+G,12| D,12| F,12| A,12| G,12| 
+G,12| C12| B,12| A,12| A,12| 
+D,12| G,12| A,12| G,12| C12| 
+D12| G,12| A,12| B,12| C12| D12| 
+D12| B,12| A,12| G,12| A,12| 
+B,12| A,12| G,12| G,12| G,12|]
+
+X:44
+I:linebreak $
+T:La navaroise
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+D12| D12| A,12| F,12| D,12| E,12| 
+D,12| D,12| F,12| A,12| D12| D12|
+C12| B,12| A,12| G,12| F,12| 
+E,12| D,12| D,12| A,12| A,12| D12| 
+D12| A,12| F,12| G,12| F,12|
+D,12| E,12| D,12| D,12| D,12|]
+
+X:45
+I:linebreak $
+T:La non pareille
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+C12| C12| D12| D12| A,12| D12| 
+C12| B,12| A,12| A,12| C12| B,12|
+A,12| D,12| E,12| F,12| G,12| A,12| 
+C12| A,12| B,12| C12| C12| F,12|
+C,12| E,12| E,12| D,12| C,12| 
+C,12| C,12|]
+
+X:46
+I:linebreak $
+T:Orleans
+M:3/4
+L:1/8
+K:Gmix clef=treble-8 octave=1 
+G,12 | A,12 | G,12 | D,12 | A,12 | D12 | C12 | B,12 | A,12 | A,12 | 
+w:B,T:~R b ss d d d d d ss r  
+B,12 | C12 | A,12 | F,12 | D,12 | E,12 | D,12 | D,12 | F,12 | A,12 | 
+w:r r b ss d d d r r r 
+G,12 | B,12 | D12 | A,12 | F,12 | D,12 | E,12 | D,12 | A,12 | 
+w:b ss d ss r r r b ss 
+D12 | C12 | B,12 | C12 | A,12 | G,12 | G,12 | G,12 |]
+w:d d d r r r b c
+
+X:47
+I:linebreak $
+T:Passe rose
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+A,12| G,12| B,12| D12| C12| 
+B,12| D12| D12| B,12| A,12| 
+A,12| A,12| B,12| C12| B,12| 
+A,12| G,12| F,12| E,12| E,12|
+F,12| G,12| A,12| G,12| F,12| 
+E,12| D,12| D,12| D,12|]
+
+X:48
+I:linebreak $
+T:Le petit rouen
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+C,12| E,12| A,12| G,12| E,12| 
+D,12| C,12| C,12| G,12| A,12| 
+G,12| C12| B,12| A,12| G,12| 
+G,12| G,12| A,12| B,12| A,12|
+G,12| F,12| E,12| E,12| C,12| 
+C,12| G,12| G,12| F,12| E,12| 
+D,12| D,12| G,12| E,12| C,12| 
+F,12| E,12| D,12| C,12| C,12| C,12|]
+
+X:49
+I:linebreak $
+T:La portingaloise
+M:6/4
+L:1/8
+K:Ddor clef=treble-8 octave=1 
+G,12 | A,12 | _B,12 | D12 | C12 |
+B,12 | A,12 | A,12 | A,12 |
+B,12 | A,12 | G,12 | F,12 |
+D,12 | E,12 | D,12 | D,12 |
+F,12 | E,12 | F,12 | G,12 |
+D12 | C12 | B,12 | A,12 |
+G,12 | D,12 | E,12 | D,12 |
+D,12 | D,12 |]
+
+X:50
+I:linebreak $
+T:La potevine
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+D,12| E,12| D,12| F,12| G,12| 
+A,12| C12| B,12| A,12| A,12| 
+A,12| B,12| A,12| G,12| A,12| 
+G,12| G,12| A,12| G,12| F,12|
+E,12| E,12| F,12| G,12| A,12| 
+A,12| A,12| B,12| C12| B,12| 
+A,12| G,12| G,12| A,12| A,12| 
+G,12| F,12| F,12| G,12| F,12|
+A,12| A,12| G,12| G,12| G,12|]
+
+X:51
+I:linebreak $
+T:La Rochelle
+M:6/2
+L:1/8
+K:C clef=treble-8 octave=1 
+F,12| E,12| D,12| E,12| D,12| D,12|  D12| C12| D12| E12| D12| C12|
+w:B:~R b ss d d d ss r r r b ss 
+w:T:~R b ss d d d ss r r r b ss  
+B,12| A,12| A,12| A,12| B,12| G,12| F,12| E,12| D,12| D,12| F,12| A,12|
+w:d r r r b ss d d d ss r r w: d r r r b ss d d d r r r 
+D12| C12| A,12| F,12| D,12| E,12| D,12| D,12| D,12|]
+w:r b ss d r r r b c
+w:b ss d ss r r r b c
+
+X:52
+I:linebreak $
+T:Le petit roysin
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+D,12| F,12| A,12| G,12| D,12| 
+F,12| E,12| D,12| D,12| F,12| G,12| 
+A,12| A,12| G,12| F,12| E,12|
+E,12| A,12| G,12| D,12| E,12| 
+F,12| E,12| D,12| D,12| E,12| 
+F,12| E,12| D,12| G,12| A,12| 
+A,12| G,12| F,12| E,12| D,12|
+C,12| D,12| F,12| E,12| D,12| D,12| D,12|]
+
+X:53
+I:linebreak $
+T:Le Basse Danse du roy d'Espaingne
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+F,12| F,12| E,12| G,12| A,12| A,12| 
+D,12| E,12| D,12| D,12| A,12| 
+A,12| C12| B,12| A,12| A,12| G,12| 
+F,12| E,12| E,12| F,12| E,12| D,12| 
+D,12| A,12| A,12| B,12| B,12| C12| 
+C12| D12| D12| A,12| A,12| A,12| 
+G,12| F,12| D,12| F,12| E,12| D,12| 
+E,12| D,12| D,12| D,12|]
+
+X:54
+I:linebreak $
+T:Sans fair de vous departe
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+C,12| E,12| F,12| D,12| E,12| 
+D,12| C,12| C,12| G,12| E,12| G,12| 
+F,12| E,12| D,12| C,12| C,12|
+G,12| A,12| B,12| C12| B,12| 
+A,12| G,12| G,12| G,12| C12| 
+G,12| A,12| E,12| F,12| E,12| 
+E,12| A,12| B,12| C12| D12|
+E12| D12| C12| G,12| G,12| 
+A,12| G,12| F,12| E,12| D,12| 
+D,12| G,12| E,12| C,12| F,12| 
+E,12| D,12| C,12| C,12| C,12|]
+
+X:55
+I:linebreak $
+T:Ma soverayne
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+E,12| E,12| G,12| F,12| E,12| G,12| 
+A,12| B,12| B,12| C12| B,12| A,12|
+G,12| ^F,12| G,12| C,12| G,12| A,12| 
+G,12| =F,12| E,12| D,12| E,12| D,12|
+C,12| D,12| C,12| D,12| F,12| E,12| 
+F,12| G,12| F,12| E,12| D,12| C,12|
+D,12| C,12| C,12| C,12|]
+
+X:56
+I:linebreak $
+T:La tantaine
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+A,12 | G,12 | F,12 | E,12 | D,12 | E,12 | D,12 | D,12 | F,12 |
+w:B,T:~R b ss d d d d d ss
+A,12 | _B,12 | A,12 | A,12 | A,12 | B,12 | C12 | B,12 |
+w:r r r b ss d d d 
+A,12 | F,12 | E,12 | D,12 | D,12 | F,12 | G,12 | F,12 |
+w:r r r b ss d ss r r 
+D12 | C12 | B,12 | A,12 | G,12 | F,12 | E,12 | D,12 |
+w:r r b ss d d d r 
+E,12 | D,12 | D,12 | D,12 |]
+w:r r b c
+
+X:57
+I:linebreak $
+T:Theme A
+C:Faugues, Missa la basse dance
+M:6/8
+L:1/8
+K:C clef=treble-8 octave=1 
+A,6| C6| A,4G,2| F,3 x2F,| G,6| A,4G,2| 
+F,4E,2| D,3 x2D,| A,4G,2| F,4A,2| C4B,2| A,3 x2A,|
+A,3 G,3| F,3 G,3| F,4E,2| D,2F, E,D,2| C,3 x2C,| 
+G,4-G,G,| F,3 A,3| D,2F,2E,2| D,6|]
+
+X:58
+I:linebreak $
+T:Theme B
+C:Faugues, Missa la basse dance
+M:6/8
+L:1/8
+K:C clef=treble-8 octave=1 
+D,6| F,4D,2| C,4G,2| F,2D,2E,2| D,6| 
+x6| A,4F,2| G,6| A,2F, A,G,2| F,3 x2F,| 
+D4C2| D6| D,4E,2| D,3 x2D,| F,3 G,3| 
+A,4-A,A,| C4B,2| A,3 x2A,| D3 C3| A,3 F,3|
+G,6| A,6| D,2F,2E,2| 
+D,6|]
+
+X:59
+I:linebreak $
+T:Torin
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+C,12| E,12| G,12| A,12| C,12| 
+D,12| C,12| C,12| B,12| C12| G,12| 
+A,12| B,12| A,12| G,12| G,12| A,12| 
+B,12| C12| C12| G,12| F,12| E,12| 
+E,12| F,12| D,12| E,12| C,12|
+D,12| D,12| C,12| B,12| C12| 
+D12| C12| B,12| A,12| G,12| 
+G,12| C,12| G,12| D,12| C,12| 
+D,12| C,12| C,12| C,12|]
+
+X:60
+I:linebreak $
+T:Triste plaiser
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+G,12| F,12| D,12| F,12| A,12| 
+G,12| F,12| F,12| G,12| G,12| 
+B,12| B,12| A,12| A,12| C12| D12|
+C12| C12| B,12| A,12| G,12| B,12| 
+G,12| F,12| D,12| F,12| G,12| G,12|
+G,12| F,12| G,12| B,12| B,12| 
+C12| D12| C12| C12| G,12| 
+B,12| A,12| G,12| G,12| G,12|]
+
+X:61
+I:linebreak $
+T:Ulises
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+C12| D12| C12| E12|
+D12| C12| A,12| F,12|
+D,12| E,12| D,12| D,12|
+F,12| G,12| A,12| A,12|
+A,12| B,12| D12| C12|
+A,12| F,12| D,12| E,12|
+D,12| G,12| F,12| E,12|
+D,12| F,12| E,12| D,12|
+D,12| D,12|]
+
+X:62
+I:linebreak $
+T:Une fois avant que morir
+M:6/4
+L:1/8
+K:Ddor clef=treble-8 octave=1 
+D,12 | A,12 | C12 | D12 | A,12 |
+G,12 | F,12 | E,12 | D,12 |
+D,12 | D12 | D12 | E12 |
+D12 | C12 | B,12 | A,12 |
+D,12 | A,12 | B,12 | F,12 |
+E,12 | G,12 | A,12 | F,12 |
+E,12 | D,12 | F,12 | G,12 |
+A,12 | _B,12 | A,12 | G,12 |
+F,12 | F,12 | D12 | C12 |
+D12 | A,12 | G,12 | F,12 |
+E,12 | D,12 | D,12 | D,12 |]
+
+X:63
+I:linebreak $
+T:Venise
+M:6/4
+L:1/8
+K:Ddor clef=treble-8 octave=1 
+F,12 | F,12 | D,12 | E,12 | D,12 |
+C12 | A,12 | F,12 | E,12 |
+D,12 | D,12 | ^C12 | ^C12 |
+D12 | D12 | A,12 | B,12 |
+A,12 | A,12 | D12 | D12 |
+C12 | B,12 | A,12 | G,12 |
+F,12 | E,12 | D,12 | D,12 |
+A,12 | D12 | C12 | A,12 |
+F,12 | G,12 | F,12 | F,12 |
+A,12 | A,12 | _B,12 | A,12 |
+^C12 | D12 | A,12 | F,12 |
+E,12 | D,12 | D,12 | A,12 |
+C12 | A,12 | F,12 | E,12 |
+E,12 | D,12 | E,12 | D,12 |
+D,12 | D,12 |]
+
+X:64
+I:linebreak $
+T:Verdelete
+M:6/4
+L:1/8
+K:C clef=treble-8 octave=1 
+D12| D12| C12| C12|
+A,12| G,12| F,12| F,12|
+G,12| A,12| D,12| F,12|
+E,12| D,12| F,12| G,12|
+A,12| D12| C12| B,12|
+A,12| A,12| A,12| D12|
+A,12| D,12| F,12| E,12|
+D,12| D,12| E,12| F,12|
+E,12| D,12| A,12| G,12|
+F,12| E,12| D,12| E,12|
+D,12| D,12| D,12|]
