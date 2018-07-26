@@ -1,5 +1,5 @@
 X:1
-T:Galliard:A Lieta Vita
+T:Galliard: A Lieta Vita
 C:Giovanni Giacomo Gastoldi (c. 1554 - 1609)
 M:6/4
 L:1/8
@@ -9,18 +9,7 @@ K:C major
 
 X:2
 I:linebreak $
-T:Belle qui tiens ma vie
-C:Arbeau
-M:C|
-L:1/4
-K:G dorian
-"Gm"G2 G"D"^F | "Gm"G"F"A "Bb"B2 | "Bb"Bd "C"c"Bb"B | "Eb"B"F"A "Bb"B2 | "Gm"G2 G"D"^F | "Gm"G"F"A "Bb"B2 | 
-"Bb"Bd "C"c"Bb"B | "Eb"B"F"A "Bb"B2 | "Bb"B2 "F"A"Dm"A | "Gm"G"Cm"G "D"^F2 | "Bb"D2 "C"E/F/"Gm"G | "Dsus4"G^F "G"G2 | 
-"Bb"B2 "F"A"Dm"A | "Gm"G"Cm"G "D"^F2 | "Bb"D2 "C"E/F/"Gm"G | "Dsus4"G^F "G"G2 |] 
-
-X:3
-I:linebreak $
-T:Galliard:Can She Excuse
+T:Galliard: Can She Excuse
 C:John Dowland, setting from Morley's Consort Lessons, 1599 & 1611
 M:3/2
 L:1/4
@@ -30,10 +19,10 @@ K:F major
 "Dm"f2"Gm"d"Cm"_e2"F"c | "Bb"d4"Cm"_e2 | "D"d2"Eb"g4 | "D"^f6 ::"Bb"d6 | "Bb"d6 | 
 "C"e6 | "C"e6 | "D"d6 | "D"d4dc | "G"=B3/c/d"C"e"D"c2 | "G"=B4G2 :| 
 
-X:4
+X:3
 I:linebreak $
 T:La Canarie
-C:Praetorius
+C:Michael Praetorius, Terpsichore, 1612
 M:6/4
 L:1/8
 K:G major
@@ -41,10 +30,9 @@ K:G major
 "G"G3AB2 "Em"G3A"G"B2 | "C"c3d"G"B2 "D"A4"G"G2 | "D"d3cd2 "G"B3cd2 | "Am"c4"G"B2 "D"A4"G"G2 | "D"d3ed2 "Em"B3c"Bm"d2 | "C"c3d"G"B2 "D"A4"G"G2 ::
 "C"G3A"G"B2 "C"G3A"G"B2 | "C"G3A"G"B2 "D"A6 | "D"d6 "G"B6 | "C"G2A2"G"B2 "D"A6 :| 
 
-X:5
+X:4
 T:Cantiga 119
-P:
-C:Alfonso X- 13th Century Spanish
+C:Alfonso X (13th Century Spanish)
 M:6/8
 L:1/8
 K:E minor
@@ -56,37 +44,36 @@ c2c c2A | c2c c2d | e2d cBA | G3 G2A | B2B B2A | B2B B2A | \
 c2c/B/ A2G | A3 A3
 :| 
 
-X:6
-T:Courante CLXXXIII à 4: Entree Courante
-C:Praetorius
+X:5
+T:Courante (CLXXXIII)
+T:Entree Courante
+C:Michael Praetorius, Terpsichore, 1612
 M:6/4
 L:1/8 
 K:C major
-P:A
 G2 | "C"c4G2 c4d2 | "C"e3fg2 e2c2g2 | "F"f4e2 "G"d4c2 | "G"B3cd2 B2G2g2 | "F"f4e2 "G"d4c2 | "G"B3cd2 B2G2g2 | 
 "Dm"d4e2 f4e2 | "G"d4c2 B4G2 | "F"A2B2c2 "G"B2c2d2 | "C"c6 c4 :: \
-P:B
 c2 | "G"B2G2d2 B2G2d2 | "G"B2G2d2 B2G2d2 | 
 "C"e2f2g2 "D"^f2g2a2 | "G"g6 g4g2 | "C"e2c2g2 e2c2g2 | "F"f6 f4e2 | "Dm"d4c2 "F"c4B2 | 
 "C"c12 | "F"c12 | "Dm"d12 | "G"d12 | "Em"e12 | "Am"e12 | "F"f12 | "Bb"f12 | "G"g12 | "C"g12 | "C"e3dc2 "G"B2c2B2 | "C"c6 c4 :| 
 
 
-X:7
+X:6
 I:linebreak $
-T:Courante CXLII à 4:So ben mi ch'ha bon tempo
-C:Praetorius
+T:Courante (CXLII)
+T:So ben mi ch'ha bon tempo
+C:Michael Praetorius, Terpsichore, 1612
 M:6/4
 L:1/8
 K:F major
-P:A
 G2 | "Gm"B4"C"G2 "Gm"B4"Cm"c2 | "Dm"d4"G"d2 "C"G4"Gm"G2 | "Gm"B4"F"c2 "Bb Gm"d4"C"e2 | "F"f3e"Gm"d2 "F Am"c4c2 | "Dm"f4f2 "C"g4g2 | "F"a4a2 a3g"Dm"f2 | 
 "A"e4"Dm"d2 "Gm"d2"A"^c4 | "D"d4d2 d4 ::
-P:B
 "Gm"d2 | "Gm"g4g2 "D"^f4f2 | "Gm"g4g2 "F Am"c4c2 | "F"f4f2 "C"e4e2 | "F"f4f2 "Gm"B4B2 |
 "Eb"B4"Gm"B2 "F"c4c2 | "Bb"d4d2 d3c"Gm"B2 | "Am F"A4"Gm"G2 "Cm"G2"D"^F4 | "G"G4G2 G4 :| 
-X:8
-T:Pavane:La Dona
-C:Susato
+
+X:7
+T:Pavane: La Dona
+C:Tylman Susato, Danserye, 1551
 M:C|
 L:1/4
 K:C major
@@ -97,45 +84,17 @@ K:C major
 | "Dm"d"Am"c "Gm"_B2 | "F"A2 z"Am"c | "Dm"d"C"e "F"f"Em"g | \
 "Am"a"G"g/f/ "C"e/f/"Gm"g/f/ |  "C"e/d/"D Asus4"d2^c |  [1 "D"d2 z :|]  [2 "D"d4 :| 
 
-X:9
-T:Galliard:La Dona
-C:Susato
+X:8
+T:Galliard: La Dona
+C:Tylman Susato, Danserye, 1551
 K:C major
 M:6/4
 L:1/8
 "Dm"d2d2d2 "Dm"A2A2"Gm"d2 | "Am"c3Bcd "C"e4"F"f2 | "C"e3def "Gm"g4"Dm"f2 | "Em"e2"Dm"d4 "A"^c4z2 ::
-
 "Dm"d2d2"C"e2 "F"f3efg | a2a2"C"g2 "F"f2ed"C"c2 | "Dm C"f4e2 "F"f4z2 ::
-
  "Dm"f2d2f2 "C"e2c2e2 | "Dm"d2"G"B2"Dm"d2 "Am"c2AB"F"cA | "Gm"d4"A"^c2 "D"d4z2 :| 
 
 X:11
-T:Pavane:Earl of Salisbury
-C:Byrd
-P:AABB x 2
-N:
-K:A minor
-M:C
-L:1/8
-P:A
-"Am"z2A4c2 | "Esus4"B6E2 | "D"^F3/G/A4"E"^G2 | "A"A4 z2A2 | "Am"c4 "F"zcBA | "G"B4 "Em"zBAG | \
-"F Dm"A6A2 |  [1 "E"^G8 :|]  [2 "E"^G4 z4 ::
-P:B
-"C Dm G"z8 | "C"z6G2 | "C"c4 "G"d4 | \
-"C"e3d "Am"c2e2- | "E"e2d3e"Am"c2 | "E"B3A ^GABc | "Esus4"BAA4^G2 |  [1 "A"A4 z4 :|]  [2 "A"A8 |] 
-
-X:12
-T:Galliard:Earl of Salisbury
-C:Byrd
-K:A minor
-M:3/2
-L:1/4
-P:A
- A4^G2 | A3/B/cdB2 | c2B4 | B2zGAB | c3/d/e2d2 | c2zAB^c | d3/e/f2e2 | d6 ::
-P:B
-e3/d/cedc | B3/A/Ggfe | d3ef2 | e2zedB | c2zcBG | A2B3A | A3^G/^F/GF/G/ | A6 :| 
-
-X:13
 I:linebreak $
 T:The Frog Galliard
 C:John Dowland, setting from Morley's Consort Lessons, 1599 & 1611
@@ -146,61 +105,55 @@ L:1/8
 "G"B3B"C"AG "C Dsus4"G4F2 | "G"G6 G6 ::"C"G2c2c2 c3de2 | "G"d4B2 G3AB2 | "Am"c3c"E"B2 "Am Esus4"A4^G2 | "A"A6 A6 | 
 "G"B4"D"A2 "Em"G4"Bm"F2 | "C"E3F"G"G2 "D"A4"G"Bc | "G"d3d"Am"cB "G"AG"Dsus4"A2A2 | "G"G6 G6 :| 
 
-X:14
+X:12
 I:linebreak $
-T:Pavane:Mille Ducas
-C:Susato
-N:
-K:D dorian
+T:Pavane: Mille Ducas
+C:Tylman Susato, Danserye, 1551
 M:C|
 L:1/4
+K:D dorian
 "Dm"DD "C"E"Am"E | "Dm"F"Bb"F "Em"G"Am"E | "Am"E"C"E "Dm"F"Am"E | "Dm"D"Gm"D "Am"C2 | "Dm"DD "Am"EE | "Dm"F"Bb"F "Em"G"Am"E | 
 "Am"E"C"E "Dm"F"Em"E/D/ | "A"^C/B,/C "D"D2 | "C"E3/E/ "Dm"F/G/"F"A/G/ | "Bb"F/E/D "A"^C3/D/ | "C"EE "F"F2 | "C"E"Dm"D "A"E2 |:
 "Am"CC "Bb"D"G"B, | "Am"C"F"A, "G"B,"Am"C | "Bb Dm"D2 "F"F2 | "C"E"Dm Asus4"D2^C | "D"D4 :| 
 
-X:15
-T:Galliard:Mille Ducas
-C:Susato
-N:
-K:D dorian
+X:13
+T:Galliard: Mille Ducas
+C:Tylman Susato, Danserye, 1551
 M:6/4
 L:1/8
+K:D dorian
 "Dm"D2D2D2 "C"E4"Am"E2 | "Dm"F2F2"Bb"F2 "Em"G4"Am"E2 | "Am"E3F"Em"GE "Dm F"F4"C"E2 | "Dm"D2"A"^CB,C2 "D"D4z2 ::"C"E2E2"Em"E2 "Dm"F3GAG | "Dm"F2"C"E2"Dm"D2 "A"^C4"Dm"D2 | 
 "C"E2E2E2 "F"F4"C"E2 | "Dm"E4D2 "A"E4z2 ::"Am"C2"F"C2"Bb"D2 "G"B,2"Am"C2"F"A,2 | "G"B,2"F"C2"G"DE "F"F4"C"E2 | "Dm Asus4"D4^C2 "D"D4z2 :| 
 
-X:16
+X:14
 I:linebreak $
 T:Monsieur's Almain
 C:William Byrd, setting from Morley's Consort Lessons, 1599 & 1611
-K:G major
 M:C
 L:1/8
+K:G major
 "G"G4 G2"C"G2 | "D"A4 A2"Am"A2 | "G"Bcd2 "Am"c4 | "G"B4 B2B2 | "G"Bcd2 "Am"c2"G"B2 | "D"A4 A2"G"D2 | 
 "C"E=F"G"G4F2 | "G"G4 G4 ::"G"G4 "D"A4 | "G"B4 B2B2 | "Am"A4 "E"^G4 | "A"A4 A2Bc | 
 "G"d3c B2"C"cB | "D"A3G FE"G"D2 | "C"E=F"D D5"G4F2 | "G"G4 G4 :| 
 
-X:17
-T:Galliard:The New-Yeere's Gift
+X:15
+T:Galliard: The New-Yeere's Gift
 C:Anthony Holborne, 1599
-K:C major
 M:6/4
 L:1/8
+K:C major
  |:"G"g2"Dsus4"g2"D"^f2 "G"g3=f/e/d2 | "Em"g2"Dsus4"g2"D"^f2 "G"g6 | \
-
 "C"e2e2"G"d2 "C"e3d"F"c2 | "Dm Asus4"d4"A"^c2 "D"d6 ::
-
 "D"A2d2"A"e2 "D"^f2"Em"g2"D"a2 | "G"g2"Dsus4"g2"D"^f2 "G"g3=f/e/d2 |\
 "C"g2"Dm"f4 "C Am"e4"Bm"d2 | "Am"c2"E"B4 "A"A6 
-
 ::"Am"e2"D"a4 "G"d2"Em"g4 | "D"^f2"Asus4"ed"A"e2 "D"d6 | \
-
 "G"d2"Em"g4 "F"c2"Dm"f4 | "C"e2"G"dcd2 "C"e3d"Am"cB | 
 "D"A2"G"d4 "C"G2"Am"c4 | "G"B2"Dsus4"AG"D"A2 "G"G3B"Am"AG | "C Dsus4"G4"D"^F2 "G"G6 :| 
 
-X:18
+X:16
 I:linebreak $
 T:The Quadro Pavin
-C:Richard Allison (fl. 1592 - 1606), setting from Morley's Consort Lessons, 1599 & 1611
+C:Richard Allison (fl. 1592 - 1606), Morley's Consort Lessons, 1599 & 1611
 K:G major
 M:4/2
 L:1/4
@@ -209,98 +162,20 @@ L:1/4
 "G"B3c/d/ "C"e"D Em"d2^c | "D G"d3d "C"c2"Dsus4"A2 | "G"B2d2 "C"e2"D"d2 | "G"d3c B2 ::"D"A2 | "D"A4 A2A2 | "D"A3"G"B "A"^cd2c | 
 "D"d3c/B/ "A"^cde2 | "D"d2A2 "G"B3B | "C"c3B A2"Em"G2 | "D"F2"G"G2 "Am Dsus4"A3A | "G"Bcd2 "Am"c2"D"A2 | "G"B6 :| 
 
-X:19
+X:17
 I:linebreak $
 T:Galliard to the Quadro Pavin
-C:Richard Allison (fl. 1592 - 1606), setting from Morley's Consort Lessons, 1599 & 1611
-K:G major
+C:Richard Allison (fl. 1592 - 1606), Morley's Consort Lessons, 1599 & 1611
 M:3/2
 L:1/4
+K:G major
  |:"G"GA | "G"B3cd2 | "Em"e2"Dm"d2"G"B2 | "C"c6 | c3cBA | "G"B3ABc | "D Em"d4"A"^c2 | 
 "D"d6 | d2A2dc | "G"B3cd2 | "Em"e2"Dm G"d4 | "C"c6 | c2c2BA | 
 "G"B3B"Am"A2 | "Em"G2"Dsus4"G2F2 | "G"G6 | G4 ::"G"G2 | "D"A4A2 | "D Asus4"d4^c2 | 
 "D"d3/f/e"A"d2^c | "D"d4"G"B2 | "C"c3B"Am"A2 | "Em Dsus4"G4F2 | "G"G6 | G4 :| 
 
 X:20
-I:linebreak $
-T:Saltarello
-P:
-C:Anonymous, London Manuscript (Add. 29987), 14th Century
-N:Drone A/E
-N:
-K:A dorian
-M:6/8
-L:1/8
-P:A
- |:e2e d2e | A2e A2e | ede cBc | d2e dec | d2e dcd | c2A cBc | 
-G2d G2d | ede cdc | ede B3 | c2B AGA | B6 | dcd ede | 
-cBc cBc | d2e dec | B2c AGA | BAB GFG | A6 | ede Be=f | 
-ede B3 |  [1 cBc de=f | ede cBc | d2e dec | edc Bcd | cBA BGA | 
-B6 :|]  [2 cBc d2e | d2c cBc | GFG A2B | cBc A3 | edc d2B | 
-c2e dcd | ede A2e | A2B c2B | A2A GFG | A6 ::
-P:B
-a6 | 
-a3 g=fg | aga e^de | gfg cBc | de=f e3 | d2c B2d | cBc A3 | 
-e3 e3 | d2e dcd | c2A cBc | G2d G2d | ede cdc | ede B3 | 
-c2B AGA | B6 | dcd ede | cBc cBc | d2e dec | B2c AGA | 
-BAB GFG | A6 | ede Be=f | ede B3 |  [1 cBc de=f | ede cBc | 
-d2e dec | edc Bcd | cBA BGA | B6 :|]  [2 cBc d2e | d2c cBc | 
-GFG A2B | cBc A3 | edc d2B | c2e dcd | ede A2e | A2B c2B | 
-A2A GFG | A6 ::
-P:C
-B6 | c2B c2A | B3 A3 | G2A GFG | 
-E3 EDE | F2A GFG | A3 BAB | c2e dcd | ede A2e | ede A3 | 
-e3 e3 | d2e dcd | c2A cBc | G2d G2d | ede cdc | ede B3 | 
-c2B AGA | B6 | dcd ede | cBc cBc | d2e dec | B2c AGA | 
-BAB GFG | A6 | ede Be=f | ede B3 |  [1 cBc de=f | ede cBc | 
-d2e dec | edc Bcd | cBA BGA | B6 :|]  [2 cBc d2e | d2c cBc | 
-GFG A2B | cBc A3 | edc d2B | c2e dcd | ede A2e | A2B c2B | 
-A2A GFG | A6 ::
-P:D
-^G3 G3 | A2^G AGA | A2^G A2B | cBc A^GA | 
-ede cBc | A2B ^G2A | B3 A2B | cBc ABc | A3 c2d | ede cde | 
-c2g f2a | gfg e^de | A2c B2c | A2e d2e | c2g f2g | efg efg | 
-a3 efg | d2e cde | B3 A2B | c2B c2A | B3 A2B | cde B2c | 
-B2c ABc | A^GA GFG | A3 A2B | c2c B2c | A3 A2A | e3 e3 | 
-d2e dcd | c2A cBc | G2d G2d | ede cdc | ede B3 | c2B AGA | 
-B6 | dcd ece | cBc cBc | d2e dec | B2c AGA | BAB GFG | 
-A6 | ede Be=f | ede B3 |  [1 cBc de=f | ede cBc | d2e dec | 
-edc Bcd | cBA BGA | B6 :|]  [2 cBc d2e | d2c cBc | GFG A2B | 
-cBc A3 | edc d2B | c2e dcd | ede A2e | A2B c2B | A2A GFG | 
-A6 |] 
-
-X:21
-T:Saltarello
-T:for couples
-P:V1 C1, V2 C2, V3 C1, V4 C2, V5 C1, V6 C2, V7 C1, V8 C2
-C:Anon 14th C, British Library MS Add. 29987
-N:Drone A/E
-M:6/8
-L:1/8
-K:A dorian
-P:Verse 1,2
-e2e d2e | A2e A2e | ede cBc | d2e dec || 
-P:Chorus
-d2e dcd | c2A cBc | G2d G2d | ede cdc | ede B3 | c2B AGA | B6 | dcd ede |
- cBc cBc | d2e dec | B2c AGA | BAB GFG | A6 | ede Be=f | ede B3 |  
-[1 cBc de=f | ede cBc | d2e dec | edc Bcd | cBA BGA | "^To verse 2,4,6,8"B6 ||  
-[2 cBc d2e | d2c cBc | GFG A2B | cBc A3 | edc d2B | c2e dcd | ede A2e | A2B c2B | A2A "^To verse 3,5,7"GFG | A6 || 
-P:Verse 3,4
-a6 | a3 g=fg | aga e^de | gfg cBc | de=f e3 | \
- d2c B2d | cBc A3 | e3 e3 || 
-P:Verse 5,6
-B6 | c2B c2A | B3 A3 | G2A GFG | E3 EDE | \
-P:Verse 7,8
-^G3 G3 | A2^G AGA | A2^G A2B | cBc A^GA | \
-ede cBc | A2B ^G2A | B3 A2B | cBc ABc | A3 c2d | 
-ede cde | c2g f2a | gfg e^de | A2c B2c | A2e d2e | \
-c2g f2g | efg efg | a3 efg | d2e cde | 
-B3 A2B | c2B c2A | B3 A2B | cde B2c | B2c ABc | \
-A^GA GFG | A3 A2B | c2c B2c | A3 A2A | e3 e3 || 
-
-X:22
-T:Saltarello II (Prendente in Gyro)
-T:for couples
+T:Saltarello II
 C:Anon 14th C, British Library MS Add. 29987
 P:A1A2B A1A2C A1A2B A1A2B A2 D
 M:C|
@@ -316,13 +191,13 @@ FG | AG AE | AG AE  | AB AF/G/ |  A3z/G/  | F/G/A/G/ F/G/F/E/ |  F/G/A/F/ A/F/A/
 P:D
 fg | ag ae | ag ae | ab a2 |] 
 
-X:1
+X:21
 T:Saltarello la Regina
 C:Anon 14th C, British Library MS Add. 29987
 N:Drone:G/D
-K:G major
 M:6/8
 L:1/8
+K:G major
 P:Verse 1,2
 GFE DEF | GAF G2D | EFG EFD | GFG A2B | Gdc B2A |
  Gdc B2A |  [1 GFG E2B | EBB E3 :|] [2 GFG EFG | A/G/AF G3 ::
@@ -336,14 +211,14 @@ P:Verse 7,8
 BAB d2G | ddG dd2 | BAB d2B | cBA B2A | GFG E2F | DEF G2D | EFG EFD | 
 GFG A2B | Gdc B2A | Gdc B2A |  [1 GFG E2B | EBB E3 :|]  [2 GFG EFG | A/G/AF G3 |]
 
-X:24
+X:22
 I:linebreak $
 T:La Volta
-T:for couples
-C:Byrd
-K:C major
+C:William Byrd (c. 1540 - 1623)
+N:arr. Robert Smith
 M:6/4
 L:1/8
+K:C major
 "G"B2A2G2 B6 | "G"B2"D"A2"Em"G2 "D"d6 | "G"B2"D"A2"Em"G2 "D"d3cB2 | "C"c2"D"A4 "G"G6 | "G"B2A2G2 B6 | "G"B2"D"A2"Em"G2 "D"d6 | 
 "G"B2"D"A2"Em"G2 "D"d3cB2 | "C"c2"D"A4 "G"G6 | "G"G2B2c2 "G"d2cd"C"e2 | "C"c2Bc"D"d2 "G"B3AG2 | "G"G2B2c2 d3cB2 | "C"c2"D"A4 "G"G6 | 
 "G"G3ABc "G"d2cd"C"e2 | "C"c2Bc"D"d2 "G"B2ABG2 | "G"D2GABc d3cB2 | "C"c2"D"A4 "G"G6 | "G"B2ABG2 B6 | "G"B2"D"AB"Em"G2 "D"d6 | 
@@ -351,11 +226,10 @@ L:1/8
 "G"G3ABc "G"dBcd"C"e2 | "A"^cABc"D"d2 "G"BGABG2 | "G"D2GABc "G"dBcd"C"cA | "C"cB"D"A4 "G"G6 | "G"B4c2 d4e2 | "Am"c4"D"d2 "G"B2ABGA | 
 "G"Bcd4 "D"A4"G"B2 | "C"c2"Am D"A4 "G"G6 | "G"G12 |] 
 
-X:25
+X:23
 I:linebreak $
 T:Volte (CCX)
-T:for couples
-C:Praetorius
+C:Michael Praetorius, Terpsichore, 1612
 M:6/4
 L:1/8
 K:G major
@@ -369,17 +243,3 @@ P:C
 P:D
 "D"AGABcA "G"B2ABcB | "D"AGFGAB "G"G6 :| 
 "G"G12 |] 
-
-X:1
-T:Saltarello la Regina
-N:Drone:G/D
-K:G major
-M:6/8
-L:1/8
-"^Verse 1,2"GFE DEF | GAF G2D | EFG EFD | GFG A2B | Gdc B2A | Gdc B2A |  [1 GFG E2B | EBB E3 :|]
- [2 GFG EFG | A/G/AF G3 ::"^Verse 3,4"BAG F2E | G2A B2A | GFG E2F | DEF G2D | EFG EFD | GFG A2B |
-Gdc B2A | Gdc B2A |  [1 GFG E2B | EBB E3 :|]  [2 GFG EFG | A/G/AF G3 ::"^Verse 5,6"BAB d2B | cBA B2A |
-GFG E2F | DEF G2D | EFG EFD | GFG A2B | Gdc B2A | Gdc B2A |  [1 GFG E2B | EBB E3 :|]
- [2 GFG EFG | A/G/AF G3 ::"^Verse 7,8"BAB d2G | ddG dd2 | BAB d2B | cBA B2A | GFG E2F | DEF G2D |
-EFG EFD | GFG A2B | Gdc B2A | Gdc B2A |  [1 GFG E2B | EBB E3 :|]  [2 GFG EFG | A/G/AF G3 |]
-
