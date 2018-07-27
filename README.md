@@ -14,7 +14,7 @@ There are [many other software packages](http://abcnotation.com/software)
 including for [Android and iOS devices](http://abcnotation.com/software#mobile).
 
 * [Full fakebook as PDF](http://thedancingmaster.net/sca_dance_fakebook.pdf)
-* ABC files
+* ABC files - [download all in a ZIP file](http://thedancingmaster.net/rendance.zip)
   * [Basse dance tenors](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/basse_dance.abc) (derived from Russell Almond's [basse dance project](http://www.pbm.com/~lindahl/almond/basse/))
   * [15th century Italian](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/15italian.abc)
   * [16th century Italian](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/16italian.abc)
