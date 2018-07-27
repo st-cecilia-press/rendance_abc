@@ -9,22 +9,22 @@ We have provided this fakebook both as a printable PDF and as ABC files.  ABC
 is a simple format for music readable both by computers and by humans that is
 commonly used for folk music and dance tunes. There is also a lot of software
 to display, play, search, and transpose ABC files. We particularly recommend
-[EasyABC]{http://www.nilsliberg.se/ksp/easyabc} on Mac, Linux and Windows.
-There are [many other software packages]{http://abcnotation.com/software}
-including for [Android and iOS devices]{http://abcnotation.com/software#mobile}.
+[EasyABC](http://www.nilsliberg.se/ksp/easyabc) on Mac, Linux and Windows.
+There are [many other software packages](http://abcnotation.com/software)
+including for [Android and iOS devices](http://abcnotation.com/software#mobile).
 
-* [Full fakebook as PDF]{http://thedancingmaster.net/sca_dance_fakebook.pdf}
+* [Full fakebook as PDF](http://thedancingmaster.net/sca_dance_fakebook.pdf)
 * ABC files
-** [Basse dance tenors]{https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/basse_dance.abc} (derived from Russell Almond's [basse dance project]{http://www.pbm.com/~lindahl/almond/basse/}
-** [15th century Italian]{https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/15italian.abc}
-** [16th century Italian]{https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/16italian.abc}
-** [Dances from the Gresley manuscript]{https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/gresley.abc}
-** [Improvised dances (Pavanes, Galliards, etc)]{https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/improvised.abc}
-** [Dances from the Inns of Court]{https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/inns.abc}
-** [Dances from Arbeau's _Orchesographie_ of 1589]{https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/arbeau.abc}
-** [All 104 dances from Playford's _English Dancing Master_ of 1651]{https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/playford.abc}
-** [Other English Country dances]{https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/playford_later.abc}
-** [Modern folk dances and SCA choreographies]{https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/other.abc}
+  * [Basse dance tenors](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/basse_dance.abc) (derived from Russell Almond's [basse dance project](http://www.pbm.com/~lindahl/almond/basse/))
+  * [15th century Italian](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/15italian.abc)
+  * [16th century Italian](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/16italian.abc)
+  * [Dances from the Gresley manuscript](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/gresley.abc)
+  * [Improvised dances (Pavanes, Galliards, etc)](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/improvised.abc)
+  * [Dances from the Inns of Court](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/inns.abc)
+  * [Dances from Arbeau's _Orchesographie_ of 1589](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/arbeau.abc)
+  * [All 104 dances from Playford's _English Dancing Master_ of 1651](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/playford.abc)
+  * [Other English Country dances](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/playford_later.abc)
+  * [Modern folk dances and SCA choreographies](https://raw.githubusercontent.com/st-cecilia-press/rendance_abc/master/other.abc)
 
 We have aimed to match the key of the tune as well as the marked chords to a
 tune's most recent appearance in the Pennsic Pile. If it has not recently
@@ -43,12 +43,13 @@ chordal accompaniment.
 
 Thanks particularly to Emma Badowski for organizing this material in a
 [previous edition of this
-fakebook]{https://github.com/st-cecilia-press/renaissance_dance_fakebook} and
+fakebook](https://github.com/st-cecilia-press/renaissance_dance_fakebook) and
 especially for harmonizing many of the tunes from Playford 1651 that have not
 previously appeared in the Pennsic Pile.
 
 If you see any problems with the Fakebook or would like to add a dance, please
-[open an issue]{https://github.com/st-cecilia-press/rendance_abc/issues}.
+[open an issue](https://github.com/st-cecilia-press/rendance_abc/issues).
 
 *Please note that this book is not an official publication of the Society
 for Creative Anachronism.*
+
