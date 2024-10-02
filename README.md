@@ -2,7 +2,7 @@
 
 The goal of this project is to include as many tunes as possible for extant
 pre-1651 dances. It also includes music for dances choreographed by SCA
-memebers in a variety of styles as well as some tunes for later English Country
+members in a variety of styles as well as some tunes for later English Country
 dances and modern folk dances that are danced in the SCA.
 
 We have provided this fakebook both as a printable PDF and as ABC files.  ABC
